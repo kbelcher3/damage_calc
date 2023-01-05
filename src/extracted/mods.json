@@ -1,0 +1,10298 @@
+[
+  {
+    "name": "Electromagnetic Shielding",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/AckBruntNightwatchMod",
+    "compatibility": "ACK & BRUNT",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Toxic Sequence",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/AcridMod",
+    "compatibility": "ACRID",
+    "upgrades": [
+      [
+        [
+          "status_duration",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Damzav-Vati",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/AkbroncoViralDamageMod",
+    "compatibility": "AKBRONCO PRIME",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_VIRAL",
+          null
+        ],
+        0.4
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Zazvat-Kar",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/AkstilettoEfficiencyWhileAirborneMod",
+    "compatibility": "AKSTILETTO PRIME",
+    "upgrades": [
+      [
+        [
+          "xx_ammo_consume_rate",
+          "ADD",
+          null,
+          null
+        ],
+        -0.125
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "ANSPATHA BRACE",
+    "unique_name": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set2/Grip/SentAmpSet2GripPartA",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "ammo_max",
+          "ADD",
+          null,
+          null
+        ],
+        20.0
+      ],
+      [
+        [
+          "xx_convert_ammo_delay",
+          "ADD",
+          null,
+          null
+        ],
+        -0.5
+      ],
+      [
+        [
+          "xx_power_rate",
+          "ADD",
+          null,
+          null
+        ],
+        15.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 0
+  },
+  {
+    "name": "CERTUS BRACE",
+    "unique_name": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Grip/CorpAmpSet1GripPartC",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 0
+  },
+  {
+    "name": "CLAPKRA BRACE",
+    "unique_name": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Grip/SentAmpSet1GripPartA",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "ammo_max",
+          "ADD",
+          null,
+          null
+        ],
+        40.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 0
+  },
+  {
+    "name": "JUTTNI BRACE",
+    "unique_name": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Grip/SentAmpSet1GripPartB",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "xx_convert_ammo_delay",
+          "ADD",
+          null,
+          null
+        ],
+        -1.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 0
+  },
+  {
+    "name": "LOHRIN BRACE",
+    "unique_name": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Grip/SentAmpSet1GripPartC",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.12
+      ],
+      [
+        [
+          "status_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.12
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 0
+  },
+  {
+    "name": "PLAGA BRACE",
+    "unique_name": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Grip/CorpAmpSet1GripPartB",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "ammo_max",
+          "ADD",
+          null,
+          null
+        ],
+        -20.0
+      ],
+      [
+        [
+          "xx_convert_ammo_delay",
+          "ADD",
+          null,
+          null
+        ],
+        -1.5
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 0
+  },
+  {
+    "name": "SUO BRACE",
+    "unique_name": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Grip/CorpAmpSet1GripPartA",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "ammo_max",
+          "ADD",
+          null,
+          null
+        ],
+        100.0
+      ],
+      [
+        [
+          "xx_convert_ammo_delay",
+          "ADD",
+          null,
+          null
+        ],
+        2.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 0
+  },
+  {
+    "name": "VIRTUOS FORGE",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToHeatDamage",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "xx_damage_conversion",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.24
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "VIRTUOS FURY",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedDamageOnStatusProc",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.075
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "VIRTUOS GHOST",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/StatusChanceOnHeadshot",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "VIRTUOS NULL",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "xx_charge_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "VIRTUOS SHADOW",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/CriticalChanceOnHeadshot",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "VIRTUOS SPIKE",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToPunctureDamage",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "xx_damage_conversion",
+          "ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.24
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "VIRTUOS STRIKE",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedCriticalDamageOnCriticalStrike",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "VIRTUOS SURGE",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToElectricDamage",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "xx_damage_conversion",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.24
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "VIRTUOS TEMPO",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/AttackSpeedOnKill",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "VIRTUOS TROJAN",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToViralDamage",
+    "compatibility": "AMP",
+    "upgrades": [
+      [
+        [
+          "xx_damage_conversion",
+          "ADD",
+          "DT_VIRAL",
+          null
+        ],
+        0.24
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Sniper Ammo Mutation",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponSnipersConvertAmmoMod",
+    "compatibility": "ANY",
+    "upgrades": [
+      [
+        [
+          "xx_convert_ammo",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Ammo Chain",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleAmmoMaxMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "ammo_max",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1667010096847311
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Archgun Ace",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingHeadshotKillAmmoEfficiencyMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.08332899869960989
+      ],
+      [
+        [
+          "xx_charge_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.08332899869960989
+      ],
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.16659910822861776
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Automatic Trigger",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleFireRateMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Ballista Measure",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleRangeMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "melee_range",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Charged Bullets",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventElectricStatusRifleMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Combustion Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFireDamageMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Comet Blast",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDualStatImpactStatusMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Contamination Casing",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventToxinStatusRifleMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Critical Focus",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceDamageAimingMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Deadly Efficiency",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDamageAfterReloadMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Dual Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleFireIterationsMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Electrified Barrel",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponElectricityDamageMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Hollowed Bullets",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritDamageMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Hypothermic Shell",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventColdStatusRifleMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Magazine Extension",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleClipMaxMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Magma Chamber",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventFireStatusRifleMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Marked Target",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleStatusChanceAimingMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Modified Munitions",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleStatusChanceMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Parallax Scope",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleCritChanceMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Polar Magazine",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFreezeDamageMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Primed Rubedo-Lined Barrel",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/Expert/ArchwingRifleDamageAmountModExpert",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.17
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Quasar Drill",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDualStatPunctureStatusMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Quick Reload",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleReloadSpeedMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Resolute Focus",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingCCImmunityIfAimingMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "xx_injury_block",
+          "ADD",
+          null,
+          null
+        ],
+        0.167
+      ],
+      [
+        [
+          "xx_injury_block",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "xx_injury_block",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "xx_injury_block",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "xx_injury_block",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          null
+        ],
+        -0.08349900596421471
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Rubedo-Lined Barrel",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleDamageAmountMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.16659910822861776
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Sabot Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRiflePunchthroughMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "punch_through",
+          "ADD",
+          null,
+          null
+        ],
+        0.5
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Shell Rush",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleChargeSpeedMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "xx_charge_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.125
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Venomous Clip",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponToxinDamageMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Zodiac Shred",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDualStatSlashStatusMod",
+    "compatibility": "ARCHGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Astral Autopsy",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeScanOnKillMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "xx_extra_scan_chance",
+          "ADD",
+          null,
+          null
+        ],
+        1.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 0
+  },
+  {
+    "name": "Astral Slash",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatSlashStatusMeleeMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Blazing Steel",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFireDamageMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Bleeding Edge",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritDamageMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Conductive Blade",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponElectricityDamageMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Cryo Coating",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventColdStatusMeleeMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Cutting Edge",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeDamageMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Extend",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeRangeIncMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "xx_melee_autotarget_range",
+          "ADD",
+          null,
+          null
+        ],
+        25.0
+      ],
+      [
+        [
+          "xx_melee_autotarget_range",
+          "ADD",
+          null,
+          "IRONBRIDE"
+        ],
+        -25.0
+      ],
+      [
+        [
+          "melee_range",
+          "ADD",
+          null,
+          null
+        ],
+        0.75
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Furor",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeFireRateMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.025
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Glacial Edge",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFreezeDamageMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Infectious Injection",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventToxinStatusMeleeMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Ion Infusion",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventElectricStatusMeleeMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Meteor Crash",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatImpactStatusMeleeMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Nebula Bore",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatPunctureStatusMeleeMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Poisonous Sting",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponToxinDamageMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Searing Steel",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventFireStatusMeleeMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Sudden Impact",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeStatusChanceMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Tempered Blade",
+    "unique_name": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeCritChanceMod",
+    "compatibility": "ARCHMELEE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Amalgam Argonak Metal Auger",
+    "unique_name": "/Lotus/Upgrades/Mods/DualSource/Rifle/ArgonakDaggerMod",
+    "compatibility": "ARGONAK",
+    "upgrades": [
+      [
+        [
+          "punch_through",
+          "ADD",
+          null,
+          null
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_melee_armor_reduction",
+          "ADD",
+          null,
+          "DAGGERS"
+        ],
+        1.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Guided Ordnance",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/AccuracyWhileAimingRifleMod",
+    "compatibility": "ASSAULT RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_spread",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Gun Glide",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreAccuracyLessRecoilSlidingMod",
+    "compatibility": "ASSAULT RIFLE",
+    "upgrades": [
+      [
+        [
+          "recoil",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ],
+      [
+        [
+          "xx_spread",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Overview",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherAirAimFoVRifleMod",
+    "compatibility": "ASSAULT RIFLE",
+    "upgrades": [
+      [
+        [
+          "zoom",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.1
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Primed Rifle Ammo Mutation",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponRifleConvertAmmoModExpert",
+    "compatibility": "ASSAULT RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_convert_ammo",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 10
+  },
+  {
+    "name": "Rifle Ammo Mutation",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponRifleConvertAmmoMod",
+    "compatibility": "ASSAULT RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_convert_ammo",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Spring-Loaded Chamber",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/FireRateWhileAimingRifleMod",
+    "compatibility": "ASSAULT RIFLE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.125
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Tactical Reload",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/PassiveReloadMod",
+    "compatibility": "ASSAULT RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_auto_reload",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Tainted Mag",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedMaxClipReloadSpeedRifle",
+    "compatibility": "ASSAULT RIFLE",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.06
+      ],
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.03
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Entropy Spike",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/BoltoMod",
+    "compatibility": "BOLTO",
+    "upgrades": [
+      [
+        [
+          "xx_projectile_explosion_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Arrow Mutation",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponBowConvertAmmoMod",
+    "compatibility": "BOW",
+    "upgrades": [
+      [
+        [
+          "xx_convert_ammo",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Split Flights",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/BowMultiShotOnHitMod",
+    "compatibility": "BOW",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.16667098949552586
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          null
+        ],
+        0.3
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "CERNOS PRIME"
+        ],
+        0.1
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "ATTICA"
+        ],
+        0.3
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "ZHUGE"
+        ],
+        0.3
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "ZHUGE PRIME"
+        ],
+        0.3
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "NAGANTAKA"
+        ],
+        0.3
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Thunderbolt",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/BowExplosionChanceMod",
+    "compatibility": "BOW",
+    "upgrades": [
+      [
+        [
+          "xx_projectile_explosion_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.075
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Dizzying Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Nightwave/BroncoNightwaveMod",
+    "compatibility": "BRONCO",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.5
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Gilded Truth",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/BurstonPrimeMod",
+    "compatibility": "BURSTON PRIME",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Efficient Beams",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Event/Arbitration/CrpSplitLaserArbitrationMod",
+    "compatibility": "CONVECTRIX",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Covert Lethality",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeStealthLethalMod",
+    "compatibility": "DAGGERS",
+    "upgrades": [
+      [
+        [
+          "melee_combo_initial_bonus",
+          "ADD",
+          null,
+          null
+        ],
+        4.0
+      ],
+      [
+        [
+          "melee_finisher_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Amalgam Daikyu Target Acquired",
+    "unique_name": "/Lotus/Upgrades/Mods/DualSource/Rifle/DaikyuKatanaMod",
+    "compatibility": "DAIKYU",
+    "upgrades": [
+      [
+        [
+          "headshot_bonus",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.125
+      ],
+      [
+        [
+          "xx_life_steal",
+          "ADD",
+          null,
+          "NIKANAS"
+        ],
+        0.005
+      ],
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Spring-Loaded Broadhead",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DaikyuMoreDamageOverDistanceMod",
+    "compatibility": "DAIKYU",
+    "upgrades": [
+      [
+        [
+          "xx_slb",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.4
+      ],
+      [
+        [
+          "xx_slb",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Gleaming Blight",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/DarkDaggerMod",
+    "compatibility": "DARK DAGGER",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Thermagnetic Shells",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/SupraCorpusArenaMod",
+    "compatibility": "DETRON",
+    "upgrades": [
+      [
+        [
+          "xx_explode1",
+          "ADD",
+          null,
+          null
+        ],
+        20.0
+      ],
+      [
+        [
+          "xx_explode2",
+          "ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "xx_explode3",
+          "ADD",
+          null,
+          null
+        ],
+        1.5
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Fomorian Accelerant",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/DrakgoonNightwatchMod",
+    "compatibility": "DRAKGOON",
+    "upgrades": [
+      [
+        [
+          "xx_projectile_bounce",
+          "ADD",
+          null,
+          null
+        ],
+        1.0
+      ],
+      [
+        [
+          "projectile_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "xx_drakgoon",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Justice Blades",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/DualCleaversMod",
+    "compatibility": "DUAL CLEAVERS",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Eroding Blight",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/EmbolistMod",
+    "compatibility": "EMBOLIST",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Flux Overdrive",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/FluxRifleCorpusArenaMod",
+    "compatibility": "FLUX RIFLE",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "xx_overheat_status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.168
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Amalgam Furax Body Count",
+    "unique_name": "/Lotus/Upgrades/Mods/DualSource/Melee/FuraxLauncherMod",
+    "compatibility": "FURAX",
+    "upgrades": [
+      [
+        [
+          "melee_combo_duration",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ],
+      [
+        [
+          "xx_explosion_radius",
+          "MUL_ADD",
+          null,
+          "UNIQUE"
+        ],
+        0.033
+      ],
+      [
+        [
+          "xx_corpse_explode_proc",
+          "SET",
+          null,
+          "FURAX"
+        ],
+        1.0
+      ],
+      [
+        [
+          "xx_explode3",
+          "ADD",
+          null,
+          "FURAX"
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Winds of Purity",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/FurisMod",
+    "compatibility": "FURIS",
+    "upgrades": [
+      [
+        [
+          "xx_life_steal",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Brain Storm",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/GrakataUnlimitedAmmo",
+    "compatibility": "GRAKATA",
+    "upgrades": [
+      [
+        [
+          "xx_ammo_consume_rate",
+          "ADD",
+          null,
+          null
+        ],
+        -0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Wild Frenzy",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnAssaultRifleArbitrationMod",
+    "compatibility": "GRAKATA",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Deadly Sequence",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/GrinlokMod",
+    "compatibility": "GRINLOK",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Exposing Harpoon",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnHarpoonGunArbitrationMod",
+    "compatibility": "HARPAK",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Scattered Justice",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/HekMod",
+    "compatibility": "HEK",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Vulcan Blitz",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/JatKittagNightwatchMod",
+    "compatibility": "JAT KITTAG",
+    "upgrades": [
+      [
+        [
+          "xx_explode1",
+          "ADD",
+          null,
+          null
+        ],
+        50.0
+      ],
+      [
+        [
+          "xx_explode2",
+          "ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "xx_explode3",
+          "ADD",
+          null,
+          null
+        ],
+        1.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Amalgam Javlok Magazine Warp",
+    "unique_name": "/Lotus/Upgrades/Mods/DualSource/Rifle/JavlokSwordShieldMod",
+    "compatibility": "JAVLOK",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          "JAVLOK"
+        ],
+        0.075
+      ],
+      [
+        [
+          "melee_combo_extra",
+          "MUL_ADD",
+          null,
+          "SWORD AND SHIELD"
+        ],
+        0.16665900206944126
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Blade of Truth",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/JawSwordMod",
+    "compatibility": "JAW SWORD",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Entropy Flight",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/KestrelMod",
+    "compatibility": "KESTREL",
+    "upgrades": [
+      [
+        [
+          "projectile_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.35
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Stockpiled Blight",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/KunaiMod",
+    "compatibility": "KUNAI",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Voltage Sequence",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/LankaMod",
+    "compatibility": "LANKA",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Double Tap",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MoreDamageonTripleTapRifleMod",
+    "compatibility": "LATRON",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Deadly Maneuvers",
+    "unique_name": "/Lotus/Upgrades/Mods/Nightwave/MagnusNightwaveMod",
+    "compatibility": "MAGNUS",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Shrapnel Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MarelokMultishot",
+    "compatibility": "MARELOK",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        2.0
+      ],
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.66
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 0
+  },
+  {
+    "name": "Amalgam Organ Shatter",
+    "unique_name": "/Lotus/Upgrades/Mods/DualSource/Melee/CritDamageChargeSpeedMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.141
+      ],
+      [
+        [
+          "xx_melee_heavy_charge",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Auger Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponEventPunctureDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Berserker Fury",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponCritFireRateBonusMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.058333333333333334
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Blood Rush",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Event/ComboCritChanceMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.03640040444893832
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Body Count",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Event/ComboDurationMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_combo_duration",
+          "ADD",
+          null,
+          null
+        ],
+        2.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Buzz Kill",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponEventSlashDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Carnis Mandible",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Ashen/AshenMandibleMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Collision Force",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponEventMeleeImpactDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Condition Overload",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponDamageIfVictimProcActive",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_damage_if_proc",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.13329902213072567
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Corrupt Charge",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/DualStat/CorruptedHeavyDamageChargeSpeedMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_combo_initial_bonus",
+          "ADD",
+          null,
+          null
+        ],
+        7.5
+      ],
+      [
+        [
+          "melee_combo_duration",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.125
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Dispatch Overdrive",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/MoveSpeedOnChannelKillMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_movement_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Drifting Contact",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/DualStat/ComboTimeStatusChanceMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_combo_duration",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Enduring Affliction",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelProcTimeExtendOnHitMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.16665900206944126
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Enduring Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelStatusMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_combo_extra",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Energy Channel",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponPowerDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_power_damage_multiplier",
+          "SET",
+          null,
+          null
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_power_damage_max",
+          "ADD",
+          null,
+          null
+        ],
+        50.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Fever Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponToxinDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Finishing Touch",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFinisherDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_finisher_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Focus Energy",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/DualStat/FocusEnergyMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_combo_efficiency",
+          "ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Focused Defense",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelArmourMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_parry_angle",
+          "ADD",
+          null,
+          null
+        ],
+        5.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Fury",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponFireRateMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Gladiator Might",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Gladiator/MeleeGladiatorMightMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Gladiator Rush",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Gladiator/MeleeGladiatorRushMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_combo_duration",
+          "ADD",
+          null,
+          null
+        ],
+        1.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Gladiator Vice",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Gladiator/MeleeGladiatorViceMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Guardian Derision",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponBlockingTauntMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ],
+      [
+        [
+          "melee_combo_extra",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Healing Return",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponHealOnHitEnemyWithProc",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_health_on_hit_enemy_with_proc",
+          "ADD",
+          null,
+          null
+        ],
+        1.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Heavy Trauma",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponImpactDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Jagged Edge",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponSlashDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Jugulus Barbs",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Boneblade/BonebladeBarbsMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Killing Blow",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeHeavyDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          "++FIXME++ APPLIED ON HEAVY ATTACKS ONLY ++FIXME++"
+        ],
+        0.2
+      ],
+      [
+        [
+          "xx_melee_heavy_charge",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Lasting Sting",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponProcTimeMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "status_duration",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Life Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelVampireMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_life_steal",
+          "ADD",
+          null,
+          "++FIXME++ APPLIED ON HEAVY ATTACKS ONLY ++FIXME++"
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Maiming Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Event/SlideAttackCritChanceMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Melee Prowess",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponStunChanceMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Molten Impact",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponFireDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Motus Impact",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Raptor/RaptorModC",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_range",
+          "ADD",
+          null,
+          null
+        ],
+        0.5
+      ],
+      [
+        [
+          "melee_range",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "North Wind",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponFreezeDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Organ Shatter",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponCritDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Parry",
+    "unique_name": "/Lotus/Upgrades/Mods/Warframe/AvatarParryMeleeMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_parry_counter_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.16
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Pressure Point",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Primed Fever Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponToxinDamageModExpert",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Fury",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponFireRateModExpert",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Heavy Trauma",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponImpactDamageModExpert",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Pressure Point",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeDamageModExpert",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Reach",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeRangeIncModExpert",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_range",
+          "ADD",
+          null,
+          null
+        ],
+        0.2727272727272727
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Smite Corpus",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageCorpusExpert",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Corpus",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Smite Corrupted",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageCorruptedExpert",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Orokin",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Smite Grineer",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageGrineerExpert",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Grineer",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Smite Infested",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageInfestedExpert",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Infestation",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Proton Snap",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModC",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "status_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.125
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Quickening",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelFireRateMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "melee_combo_extra",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Reach",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeRangeIncMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_range",
+          "ADD",
+          null,
+          null
+        ],
+        0.2727272727272727
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Reflex Coil",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeChargeRateMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_combo_efficiency",
+          "ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Relentless Combination",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeComboChanceFromDot",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_melee_combo_dot",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Rending Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/DualStat/RendingStrikeMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Sacrificial Pressure",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Sacrifice/MeleeSacrificeModA",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Sentient",
+          null
+        ],
+        0.03
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Sacrificial Steel",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Sacrifice/MeleeSacrificeModB",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ],
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          "++FIXME++ APPLIED ON HEAVY ATTACKS ONLY ++FIXME++"
+        ],
+        0.2
+      ],
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Sentient",
+          null
+        ],
+        0.03
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Saxum Thorax",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Femur/FemurThoraxMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Seismic Wave",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeSlamDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_melee_slam_bonus",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.5
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Shattering Impact",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeArmorShatterMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_melee_armor_reduction",
+          "ADD",
+          null,
+          null
+        ],
+        1.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Shocking Touch",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponElectricityDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Smite Corpus",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageCorpus",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Corpus",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Smite Corrupted",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageCorrupted",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Orokin",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Smite Grineer",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageGrineer",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Grineer",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Smite Infested",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageInfested",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Infestation",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Spoiled Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/DualStat/CorruptedDamageSpeedMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Spring-Loaded Blade",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/MeleeRangeOnProcMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_range",
+          "ADD",
+          null,
+          null
+        ],
+        0.16666666666666666
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Strain Infection",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Strain/MeleeStrainInfectionMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Sundering Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponArmorPiercingDamageMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Tek Gravity",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Tek/MeleeTekGravityMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "True Punishment",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelCritsMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_combo_extra",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "melee_combo_duration",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.125
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "True Steel",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponCritChanceMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ],
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          "++FIXME++ APPLIED ON HEAVY ATTACKS ONLY ++FIXME++"
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Vicious Frost",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/DualStat/IceEventMeleeMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Virulent Scourge",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/DualStat/PoisonEventMeleeMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Volcanic Edge",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/DualStat/FireEventMeleeMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Voltaic Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/DualStat/ElectEventMeleeMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Weeping Wounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Event/ComboStatusChanceMod",
+    "compatibility": "MELEE",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.06665900471210205
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Toxic Blight",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/MireMod",
+    "compatibility": "MIRE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Neutralizing Justice",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/MiterMod",
+    "compatibility": "MITER",
+    "upgrades": [
+      [
+        [
+          "xx_miter",
+          "ADD",
+          null,
+          null
+        ],
+        0.225
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Bursting Mass",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/InfCrpShockSwarmRifleArbitrationMod",
+    "compatibility": "MUTALIST QUANTA",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Entropy Detonation",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/ObexMod",
+    "compatibility": "OBEX",
+    "upgrades": [
+      [
+        [
+          "xx_explode1",
+          "ADD",
+          null,
+          null
+        ],
+        250.0
+      ],
+      [
+        [
+          "xx_explode2",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ],
+      [
+        [
+          "xx_explode3",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Nightwatch Napalm",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/ProjectNightwatch/OgrisNightwatchMod",
+    "compatibility": "OGRIS",
+    "upgrades": [
+      [
+        [
+          "xx_ogris1",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ],
+      [
+        [
+          "xx_ogris2",
+          "ADD",
+          null,
+          null
+        ],
+        1.0
+      ],
+      [
+        [
+          "xx_ogris3",
+          "ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Disarming Purity",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/PantheraMod",
+    "compatibility": "PANTHERA",
+    "upgrades": [
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Bhisaj-Bal",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/ParisHealOnStatusMod",
+    "compatibility": "PARIS PRIME",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Napalm Grenades",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/GrenadeLauncherProjectileMod",
+    "compatibility": "PENTA",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Tether Grenades",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/PentaCorpusArenaMod",
+    "compatibility": "PENTA",
+    "upgrades": [
+      [
+        [
+          "xx_augment",
+          "ADD",
+          null,
+          null
+        ],
+        1.0
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Air Recon",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HigherAirAimFoVPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "zoom",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.1
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Amalgam Barrel Diffusion",
+    "unique_name": "/Lotus/Upgrades/Mods/DualSource/Pistol/MultishotDodgeMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1825
+      ],
+      [
+        [
+          "xx_acrobatic_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "xx_dodge_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.025
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Anemic Agility",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedFireRateDamagePistol",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.025
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Augur Pact",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Augur/SecondaryAugurPactMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Augur Seeker",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Augur/SecondaryAugurSeekerMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "status_duration",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Barrel Diffusion",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponFireIterationsMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Bore",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponEventPunctureDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Carnis Stinger",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Ashen/AshenStingerMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Concussion Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponImpactDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Convulsion",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponElectricityDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Creeping Bullseye",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedCritChanceFireRatePistol",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.33332901016808464
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.03332901050447413
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Deep Freeze",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponFreezeDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Eject Magazine",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/PassiveReloadMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_auto_reload",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Embedded Catalyzer",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/StatusProcWhileAimingPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Energizing Shot",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/ShootPickUpPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_pickup_shoot_bonus",
+          "ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 10
+  },
+  {
+    "name": "Expel Corpus",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorpus",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Corpus",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Expel Corrupted",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorrupted",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Orokin",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Expel Grineer",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageGrineer",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Grineer",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Expel Infested",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageInfested",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Infestation",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Frostbite",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/IceEventPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Fulmination",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/AmbulasEvent/SecondaryExplosionRadiusMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_explosion_radius",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.06
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Galvanized Crosshairs",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/CritChanceWhileAimingPistolSPMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.10909090909090909
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Galvanized Diffusion",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponFireIterationsSPMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Galvanized Shot",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponStatusChanceSPMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.07272727272727272
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Gunslinger",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponFireRateMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.12
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Hawk Eye",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolZoomFovMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "zoom",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Heated Charge",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponFireDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Hemorrhage",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponBleedOnImpactPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Hollow Point",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedCritDamagePistol",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.025
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Hornet Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponDamageAmountMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Hydraulic Crosshairs",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/CritChanceWhileAimingPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.225
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Ice Storm",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/IceStormMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Jolt",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Jugulus Spines",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Boneblade/BonebladeSpinesMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Lethal Momentum",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponProjectileSpeedMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "projectile_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Lethal Torrent",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/GrinderMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Magnum Force",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedDamageRecoilPistol",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "ACRID"
+        ],
+        5.0
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          null
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "HIKOU"
+        ],
+        0.58
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "KUNAI"
+        ],
+        0.59
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "DESPAIR"
+        ],
+        0.58
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "MK1-KUNAI"
+        ],
+        0.58
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "SPECTRA"
+        ],
+        0.4
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "CYCRON"
+        ],
+        0.55
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "OCUCOR"
+        ],
+        1.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "STATICOR"
+        ],
+        0.15
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "NUKOR"
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "ACRID"
+        ],
+        0.15
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "EMBOLIST"
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "STUG"
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "POX"
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "CASTANAS"
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "GAMMACOR"
+        ],
+        0.15
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "SYNOID GAMMACOR"
+        ],
+        0.15
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "SANCTI CASTANAS"
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "SPIRA"
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "SPIRA PRIME"
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "HIKOU PRIME"
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "TALONS"
+        ],
+        0.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "ATOMOS"
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Maim",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponEventSlashDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "No Return",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponArmorPiercingDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Pathogen Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponToxinDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Perpetual Agony",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponProcTimeMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "status_duration",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Pistol Ammo Mutation",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolConvertAmmoMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_convert_ammo",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Pistol Gambit",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponCritChanceMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Pistol Pestilence",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/PoisonEventPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Pressurized Magazine",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/FireRateWhileAimingPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Primed Expel Corpus",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Corpus",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Expel Corrupted",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorruptedExpert",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Orokin",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Expel Grineer",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageGrineerExpert",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Grineer",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Expel Infested",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageInfestedExpert",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Infestation",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Fulmination",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/AmbulasEvent/Expert/SecondaryExplosionRadiusModExpert",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_explosion_radius",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.06
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Heated Charge",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponFireDamageModExpert",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Pistol Ammo Mutation",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolConvertAmmoModExpert",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_convert_ammo",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Pistol Gambit",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponCritChanceModBeginnerExpert",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.17
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Quickdraw",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponReloadSpeedModExpert",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.08
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Slip Magazine",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponClipMaxModExpert",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Target Cracker",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Expert/PrimedWeaponCritDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Pummel",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponEventPistolImpactDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Quickdraw",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponReloadSpeedMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.08
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Razor Shot",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponSlashDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Reflex Draw",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HolsterSpeedBonusMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_holster_rate",
+          "MUL_ADD",
+          null,
+          "PISTOL"
+        ],
+        0.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Ruinous Extension",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponBeamDistanceMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "melee_range",
+          "ADD",
+          null,
+          null
+        ],
+        2.0
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "SECONDARY DEADHEAD",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnNoMelee",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 8
+  },
+  {
+    "name": "SECONDARY DEXTERITY",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnMeleeKill",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          "PISTOL"
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 8
+  },
+  {
+    "name": "SECONDARY MERCILESS",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnKill",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 8
+  },
+  {
+    "name": "Saxum Spittle",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Femur/FemurSpittleMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Scorch",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/FireEventPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Seeker",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponPunctureDepthMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "punch_through",
+          "ADD",
+          null,
+          null
+        ],
+        0.35
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Sharpened Bullets",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/CritDamageWhileAimingPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.125
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Slip Magazine",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponClipMaxMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Spry Sights",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/FasterMovementWhileAimingPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_movement_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Steady Hands",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponRecoilReductionMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "recoil",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.15
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Strafing Slide",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MoreAccuracyLessRecoilSlidingPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "recoil",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ],
+      [
+        [
+          "xx_spread",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Stunning Speed",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/StunningSpeedMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.075
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Suppress",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponNoiseReductionMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_noise_reduction",
+          "MUL",
+          null,
+          null
+        ],
+        0.75
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Sure Shot",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponStunChanceMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Synth Charge",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Synth/PistolSynthChargeMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_damage_last_magazine",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.5
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Tainted Clip",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedMaxClipReloadSpeedPistol",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Target Cracker",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponCritDamageMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Targeting Subsystem",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/Event/AccuracyWhileAimingPistolMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "xx_spread",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Trick Mag",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/WeaponAmmoMaxMod",
+    "compatibility": "PISTOL",
+    "upgrades": [
+      [
+        [
+          "ammo_max",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Aero Periphery",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Hawk/HawkModC",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "zoom",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.125
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Combustion Beam",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponBeamExplodeOnDeath",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "xx_explode1",
+          "ADD",
+          null,
+          "PRIMARY"
+        ],
+        100.0
+      ],
+      [
+        [
+          "xx_explode3",
+          "ADD",
+          null,
+          "PRIMARY"
+        ],
+        3.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Hunter Munitions",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Hunter/PrimaryHunterMunitionsMod",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "xx_hunter_munitions",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Hunter Track",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Hunter/PrimaryHunterTrackMod",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "status_duration",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "PRIMARY DEADHEAD",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnNoMelee",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 8
+  },
+  {
+    "name": "PRIMARY DEXTERITY",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnMeleeKill",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          "PRIMARY"
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 8
+  },
+  {
+    "name": "PRIMARY MERCILESS",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryDamageOnKill",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 8
+  },
+  {
+    "name": "Sinister Reach",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponBeamDistanceMod",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "melee_range",
+          "ADD",
+          null,
+          null
+        ],
+        3.0
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Vigilante Armaments",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteArmamentsMod",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "vigilante",
+          "ADD",
+          null,
+          "PRIMARY"
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Vigilante Fervor",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteFervorMod",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.075
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          "BOW"
+        ],
+        0.075
+      ],
+      [
+        [
+          "vigilante",
+          "ADD",
+          null,
+          "PRIMARY"
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Vigilante Offense",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteOffenseMod",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "punch_through",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "vigilante",
+          "ADD",
+          null,
+          "PRIMARY"
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Vigilante Supplies",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteSuppliesMod",
+    "compatibility": "PRIMARY",
+    "upgrades": [
+      [
+        [
+          "xx_convert_ammo",
+          "ADD",
+          null,
+          null
+        ],
+        2.0
+      ],
+      [
+        [
+          "vigilante",
+          "ADD",
+          null,
+          "PRIMARY"
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Static Discharge",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Event/CorpusArena/ProvaCorpusArenaMod",
+    "compatibility": "PROVA",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Aerial Ace",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/JumpRefreshOnKillRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Agile Aim",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterMovementWhileAimingRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_movement_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Amalgam Serration",
+    "unique_name": "/Lotus/Upgrades/Mods/DualSource/Rifle/SerratedRushMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.141
+      ],
+      [
+        [
+          "xx_sprint_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.0225
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Ammo Drum",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponAmmoMaxMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "ammo_max",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Argon Scope",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/CritChanceWhileAimingRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.225
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Bane of Corpus",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageCorpus",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Corpus",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Bane of Corrupted",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageCorrupted",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Orokin",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Bane of Grineer",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageGrineer",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Grineer",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Bane of Infested",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageInfested",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Infestation",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Bladed Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/CritDamageWhileAimingRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Catalyzer Link",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/StatusProcWhileAimingRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Cautious Shot",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponResistSelfDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_self_cc_reduction_time",
+          "ADD",
+          null,
+          null
+        ],
+        0.09089900110987792
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 10
+  },
+  {
+    "name": "Continuous Misery",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponProcTimeMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "status_duration",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Crash Course",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponEventRifleImpactDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Critical Delay",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedCritRateFireRateRifle",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.33332901016808464
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.033299697275479316
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          "BOW"
+        ],
+        -0.033299697275479316
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Cryo Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFreezeDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Eagle Eye",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponZoomFovMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "zoom",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Fanged Fusillade",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponEventSlashDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Fast Hands",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponReloadSpeedMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Firestorm",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponIncreaseRadialExplosionMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_explosion_radius",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.06
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Galvanized Aptitude",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponStatusChanceSPMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.07272727272727272
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Galvanized Chamber",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFireIterationsSPMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.07273095623987035
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Galvanized Scope",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/CritChanceWhileAimingRifleSPMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.10910087719298246
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Hammer Shot",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/HammerShotMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Heavy Caliber",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedDamageRecoilRifle",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "OGRIS"
+        ],
+        5.0
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          null
+        ],
+        0.27
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "MITER"
+        ],
+        1.36
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "FLUX RIFLE"
+        ],
+        0.27
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "DERA"
+        ],
+        0.9
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "SYNAPSE"
+        ],
+        0.36
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "TORID"
+        ],
+        3.0
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "JAVLOK"
+        ],
+        1.5
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "FERROX"
+        ],
+        1.0
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "SCOURGE"
+        ],
+        1.75
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Hellfire",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFireDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "High Voltage",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/ElectEventRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Hush",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponNoiseReductionMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_noise_reduction",
+          "MUL",
+          null,
+          null
+        ],
+        0.75
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Infected Clip",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponToxinDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Internal Bleeding",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponBleedOnImpactProcRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Magazine Warp",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponClipMaxMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Malignant Force",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/PoisonEventRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Mending Shot",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/ShootPickUpRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_pickup_shoot_bonus",
+          "ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 10
+  },
+  {
+    "name": "Metal Auger",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponPunctureDepthMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "punch_through",
+          "ADD",
+          null,
+          null
+        ],
+        0.35
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Piercing Caliber",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponEventPunctureDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Piercing Hit",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponArmorPiercingDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Point Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponCritChanceMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Primed Bane of Corpus",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorpus",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Corpus",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Bane of Corrupted",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorrupted",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Orokin",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Bane of Grineer",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageGrineer",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Grineer",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Bane of Infested",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageInfested",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Infestation",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Cryo Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponFreezeDamageModExpert",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Fast Hands",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponReloadSpeedModExpert",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Firestorm",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponIncreaseRadialExplosionModExpert",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_explosion_radius",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.06
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Shred",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/PrimedShredMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          "BOW"
+        ],
+        0.05
+      ],
+      [
+        [
+          "punch_through",
+          "ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Proton Jet",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModB",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.3
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.3
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Rifle Aptitude",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponStunChanceMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Rime Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/IceEventRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Rupture",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponImpactDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Sawtooth Clip",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponSlashDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Serration",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponDamageAmountMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Shred",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/ShredMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          "BOW"
+        ],
+        0.05
+      ],
+      [
+        [
+          "punch_through",
+          "ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Speed Trigger",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFireRateMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          "BOW"
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Split Chamber",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponFireIterationsMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Stabilizer",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponRecoilReductionMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "recoil",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.15
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Stormbringer",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponElectricityDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Terminal Velocity",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponProjectileSpeedMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "projectile_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Thermite Rounds",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/FireEventRifleMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Twitch",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HolsterSpeedBonusMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "xx_holster_rate",
+          "MUL_ADD",
+          null,
+          "RIFLE"
+        ],
+        0.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Vile Acceleration",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedFireRateDamageRifle",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          "BOW"
+        ],
+        0.15
+      ],
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.025
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Vile Precision",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedRecoilFireRateRifle",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "recoil",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.15
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.06
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          "BOW"
+        ],
+        -0.06
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Vital Sense",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponCritDamageMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Wildfire",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/WildfireMod",
+    "compatibility": "RIFLE",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ],
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Amalgam Ripkas True Steel",
+    "unique_name": "/Lotus/Upgrades/Mods/DualSource/Melee/RipkasShotgunMod",
+    "compatibility": "RIPKAS",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          "RIPKAS"
+        ],
+        0.31160033869602033
+      ],
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          "++FIXME++ APPLIED ON HEAVY ATTACKS ONLY ++FIXME++"
+        ],
+        0.31160033869602033
+      ],
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          "SHOTGUN"
+        ],
+        0.033
+      ],
+      [
+        [
+          "xx_gore_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.167
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Hunter's Bonesaw",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/RipkasNightwatchMod",
+    "compatibility": "RIPKAS",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Ambush Optics",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RubicoLowZoom",
+    "compatibility": "RUBICO",
+    "upgrades": [
+      [
+        [
+          "zoom",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.125
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Accelerated Blast",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/AcceleratedBlastMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Amalgam Shotgun Spazz",
+    "unique_name": "/Lotus/Upgrades/Mods/DualSource/Shotgun/ShotgunMedicMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.141
+      ],
+      [
+        [
+          "xx_revive_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.075
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Ammo Stock",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponClipMaxMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Blaze",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/BlazeMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Blunderbuss",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponCritChanceMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Breach Loader",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventPunctureDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Broad Eye",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HigherAirAimFoVShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "zoom",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.1
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Burdened Magazine",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedMaxClipReloadSpeedShotgun",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.03
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Charged Shell",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponElectricityDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Chilling Grasp",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponFreezeDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Chilling Reload",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ColdDmgReloadSpeedMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Cleanse Corpus",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageCorpus",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Corpus",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Cleanse Corrupted",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageCorrupted",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Orokin",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Cleanse Grineer",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageGrineer",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Grineer",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Cleanse Infested",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageInfested",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Infestation",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Contagious Spread",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponToxinDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Counterbalance",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponRecoilReductionMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "recoil",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.15
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Critical Deceleration",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedCritChanceFireRateShotgun",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.33332901016808464
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.033299697275479316
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Disruptor",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponImpactDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Double-Barrel Drift",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/MoreAccuracyLessRecoilSlidingShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "recoil",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ],
+      [
+        [
+          "xx_spread",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Fatal Acceleration",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponProjectileSpeedMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "projectile_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Flechette",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponArmorPiercingDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_PUNCTURE",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Frail Momentum",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedFireRateDamageShotgun",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.025
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Frigid Blast",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/IceEventShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Full Contact",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventShotgunImpactDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_IMPACT",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Galvanized Acceleration",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponProjectileSpeedSPMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "projectile_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.02727272727272727
+      ],
+      [
+        [
+          "melee_range",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.02727272727272727
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 10
+  },
+  {
+    "name": "Galvanized Hell",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireIterationsSPMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Galvanized Savvy",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponStatusChanceSPMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.07273095623987035
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Hell's Chamber",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireIterationsMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "multishot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Incendiary Coat",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Laser Sight",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Event/CritChanceWhileAimingShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Lingering Torment",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponProcTimeMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "status_duration",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Lock and Load",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/PassiveReloadMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "xx_auto_reload",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Motus Setup",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Raptor/RaptorModB",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Nano-Applicator",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Event/StatusProcWhileAimingShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Narrow Barrel",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Event/AccuracyWhileAimingShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "xx_spread",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Point Blank",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponDamageAmountMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Primed Charged Shell",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponElectricityDamageModExpert",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Chilling Grasp",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponFreezeDamageModExpert",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FREEZE",
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Cleanse Corpus",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageCorpusExpert",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Corpus",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Cleanse Corrupted",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageCorruptedExpert",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Orokin",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Cleanse Grineer",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageGrineerExpert",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Grineer",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Cleanse Infested",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunFactionDamageInfestedExpert",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "faction_damage",
+          "MUL_ADD",
+          "Infestation",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Point Blank",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponDamageAmountModExpert",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Ravage",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Shotgun Ammo Mutation",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponShotgunConvertAmmoModExpert",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "xx_convert_ammo",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 10
+  },
+  {
+    "name": "Primed Tactical Pump",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponReloadSpeedModExpert",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.09089900110987792
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Ravage",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponCritDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Repeater Clip",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Event/FireRateWhileAimingShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.175
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Scattering Inferno",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/FireEventShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_FIRE",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Seeking Force",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponPunctureDepthMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "punch_through",
+          "ADD",
+          null,
+          null
+        ],
+        0.35
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Seeking Fury",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ReloadSpeedPunchThroughMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.025
+      ],
+      [
+        [
+          "punch_through",
+          "ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Shell Compression",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponAmmoMaxMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "ammo_max",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Shell Shock",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ElectEventShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_ELECTRICITY",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Shotgun Ammo Mutation",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunConvertAmmoMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "xx_convert_ammo",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Shotgun Savvy",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponStunChanceMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Shotgun Spazz",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireRateMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Shrapnel Shot",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Event/CritDamageWhileAimingShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "crit_damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.165
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Shredder",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponSlashDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Silent Battery",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/WeaponNoiseReductionMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "xx_noise_reduction",
+          "MUL",
+          null,
+          null
+        ],
+        0.75
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Snap Shot",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/FasterMovementWhileAimingShotgunlMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "xx_movement_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Soft Hands",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HolsterSpeedBonusMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "xx_holster_rate",
+          "MUL_ADD",
+          null,
+          "SHOTGUN"
+        ],
+        0.5
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Sweeping Serration",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventSlashDamageMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "MUL_ADD",
+          "DT_SLASH",
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Tactical Pump",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/WeaponReloadSpeedMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Tainted Shell",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedAccuracyFireRateShotgun",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "xx_spread",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.07
+      ],
+      [
+        [
+          "fire_rate",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.05
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Toxic Barrage",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/PoisonEventShotgunMod",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "elemental",
+          "ADD",
+          "DT_POISON",
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Vicious Spread",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedDamageAccuracyShotgun",
+    "compatibility": "SHOTGUN",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "xx_spread",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.1
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "ARCA PLASMOR"
+        ],
+        5.0
+      ],
+      [
+        [
+          "xx_spread",
+          "ADD",
+          null,
+          "PHANTASMA"
+        ],
+        5.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Avenging Truth",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/SilvaAegisMod",
+    "compatibility": "SILVA & AEGIS",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Bright Purity",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/SkanaMod",
+    "compatibility": "SKANA",
+    "upgrades": [
+      [
+        [
+          "damage",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Aero Agility",
+    "unique_name": "/Lotus/Upgrades/Mods/Sets/Hawk/HawkModB",
+    "compatibility": "SNIPER",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Charged Chamber",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/SniperReloadDamageMod",
+    "compatibility": "SNIPER",
+    "upgrades": [
+      [
+        [
+          "charged_chamber",
+          "MUL_ADD",
+          null,
+          "SNIPER"
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Depleted Reload",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedReloadSpeedMaxClipRifle",
+    "compatibility": "SNIPER",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.1
+      ],
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.08
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Harkonar Scope",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/ProjectNightwatch/VulkarNightwatchMod",
+    "compatibility": "SNIPER",
+    "upgrades": [
+      [
+        [
+          "xx_sniper_combo",
+          "ADD",
+          null,
+          null
+        ],
+        2.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Primed Chamber",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/EventSniperReloadDamageMod",
+    "compatibility": "SNIPER",
+    "upgrades": [
+      [
+        [
+          "charged_chamber",
+          "MUL_ADD",
+          null,
+          "SNIPER"
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Sharpshooter",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/EnergyOnHeadshotRifle",
+    "compatibility": "SNIPER",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 10
+  },
+  {
+    "name": "Target Acquired",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/SniperHeadshotMultiplierMod",
+    "compatibility": "SNIPER",
+    "upgrades": [
+      [
+        [
+          "headshot_bonus",
+          "MUL_ADD",
+          null,
+          "SNIPER"
+        ],
+        0.1
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Acid Shells",
+    "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/SobekNightwatchMod",
+    "compatibility": "SOBEK",
+    "upgrades": [
+      [
+        [
+          "xx_explode1",
+          "ADD",
+          null,
+          null
+        ],
+        75.0
+      ],
+      [
+        [
+          "xx_explode2",
+          "ADD",
+          null,
+          null
+        ],
+        0.075
+      ],
+      [
+        [
+          "xx_explode3",
+          "ADD",
+          null,
+          null
+        ],
+        2.5
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Shattering Justice",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/SobekMod",
+    "compatibility": "SOBEK",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.225
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Hata-Satya",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/SomaCritChanceOnHitMod",
+    "compatibility": "SOMA PRIME",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Sequence Burn",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/SpectraMod",
+    "compatibility": "SPECTRA",
+    "upgrades": [
+      [
+        [
+          "melee_range",
+          "ADD",
+          null,
+          null
+        ],
+        5.0
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Directed Convergence",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/SupraHigherAccuracyAiming",
+    "compatibility": "SUPRA",
+    "upgrades": [
+      [
+        [
+          "xx_spread",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.25
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Entropy Burst",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/SupraMod",
+    "compatibility": "SUPRA",
+    "upgrades": [
+      [
+        [
+          "status_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.05
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Focused Acceleration",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TetraFasterProjAiming",
+    "compatibility": "TETRA",
+    "upgrades": [
+      [
+        [
+          "projectile_speed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 3
+  },
+  {
+    "name": "Kinetic Ricochet",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/TetraCorpusArenaMod",
+    "compatibility": "TETRA",
+    "upgrades": [
+      [
+        [
+          "xx_projectile_bounce",
+          "ADD",
+          null,
+          null
+        ],
+        1.0
+      ],
+      [
+        [
+          "melee_range",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.05
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Concealed Explosives",
+    "unique_name": "/Lotus/Upgrades/Mods/Pistol/ThrowingExplosionChanceMod",
+    "compatibility": "THROWN",
+    "upgrades": [
+      [
+        [
+          "xx_projectile_explosion_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Combo Fury",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnKillBuffSecondary",
+    "compatibility": "THROWN MELEE",
+    "upgrades": [
+      [
+        [
+          "reload_speed",
+          "MUL_ADD",
+          null,
+          "PISTOL"
+        ],
+        0.16659910822861776
+      ],
+      [
+        [
+          "magazine_size",
+          "MUL_ADD",
+          null,
+          "PISTOL"
+        ],
+        0.16659910822861776
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Combo Killer",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSecondaryHeadshotKillMod",
+    "compatibility": "THROWN MELEE",
+    "upgrades": [
+      [
+        [
+          "melee_combo_duration",
+          "ADD",
+          null,
+          "THROWN MELEE"
+        ],
+        0.8332989903152689
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Mark of the Beast",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveOnSixKillsBuffSecondary",
+    "compatibility": "THROWN MELEE",
+    "upgrades": [
+      [
+        [
+          "crit_chance",
+          "MUL_ADD",
+          null,
+          "PISTOL"
+        ],
+        0.2
+      ],
+      [
+        [
+          "status_chance",
+          "MUL_ADD",
+          null,
+          "PISTOL"
+        ],
+        0.2
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Power Throw",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaivePowerthrowMod",
+    "compatibility": "THROWN MELEE",
+    "upgrades": [
+      [
+        [
+          "punch_through",
+          "ADD",
+          null,
+          null
+        ],
+        0.333400974025974
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Quick Return",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveReflectionDecreaseMod",
+    "compatibility": "THROWN MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_reflection_modifier",
+          "ADD",
+          null,
+          null
+        ],
+        -1.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Rebound",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveReflectionIncreaseMod",
+    "compatibility": "THROWN MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_reflection_modifier",
+          "ADD",
+          null,
+          null
+        ],
+        1.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Volatile Quick Return",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionDecreaseMod",
+    "compatibility": "THROWN MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_reflection_modifier",
+          "ADD",
+          null,
+          null
+        ],
+        -1.0
+      ],
+      [
+        [
+          "xx_explosion_radius",
+          "ADD",
+          null,
+          null
+        ],
+        0.75
+      ],
+      [
+        [
+          "xx_reflection_explosion_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "punch_through",
+          "SET",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Volatile Rebound",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionIncreaseMod",
+    "compatibility": "THROWN MELEE",
+    "upgrades": [
+      [
+        [
+          "xx_reflection_explosion_chance",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ],
+      [
+        [
+          "punch_through",
+          "SET",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Whirlwind",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveSpeedMod",
+    "compatibility": "THROWN MELEE",
+    "upgrades": [
+      [
+        [
+          "projectile_speed",
+          "MUL_ADD",
+          null,
+          "THROWN MELEE"
+        ],
+        0.3
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Precision Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnGrenadeLauncherArbitrationMod",
+    "compatibility": "TONKOR",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Rift Strike",
+    "unique_name": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/TwinBasolkNightwatchMod",
+    "compatibility": "TWIN BASOLK",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "Adhesive Blast",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/WeaponGrenadeStickyMod",
+    "compatibility": "UNIQUE",
+    "upgrades": [
+      [
+        [
+          "xx_adhesive_blase",
+          "ADD",
+          null,
+          null
+        ],
+        0.16666666666666666
+      ]
+    ],
+    "is_utility": true,
+    "max_rank": 5
+  },
+  {
+    "name": "Skull Shots",
+    "unique_name": "/Lotus/Upgrades/Mods/PvPMods/Pistol/ViperUnlimitedAmmo",
+    "compatibility": "VIPER",
+    "upgrades": [
+      [
+        [
+          "xx_ammo_consume_rate",
+          "ADD",
+          null,
+          null
+        ],
+        -0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Stinging Truth",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/ViperMod",
+    "compatibility": "VIPER",
+    "upgrades": [
+      [
+        [
+          "magazine_size",
+          "ADD",
+          null,
+          null
+        ],
+        10.0
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Lasting Purity",
+    "unique_name": "/Lotus/Upgrades/Mods/Syndicate/VulkarMod",
+    "compatibility": "VULKAR",
+    "upgrades": [
+      [
+        [
+          "damage_aimed",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.15
+      ],
+      [
+        [
+          "xx_syndicate",
+          "ADD",
+          null,
+          null
+        ],
+        0.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "Meticulous Aim",
+    "unique_name": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnSniperRifleArbitrationMod",
+    "compatibility": "VULKAR",
+    "upgrades": [
+      [
+        [
+          "headshot_bonus",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.175
+      ],
+      [
+        [
+          "xx_bodyshot",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        -0.075
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 5
+  },
+  {
+    "name": "EXODIA BRAVE",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ChannelKillEnergyRate",
+    "compatibility": "ZAW",
+    "upgrades": [
+      [
+        [
+          "xx_power_rate",
+          "ADD",
+          null,
+          null
+        ],
+        1.25
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "EXODIA CONTAGION",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneProjectileOnJump",
+    "compatibility": "ZAW",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ],
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ],
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ],
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "EXODIA EPIDEMIC",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeArcaneShockwaveOnJump",
+    "compatibility": "ZAW",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ],
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ],
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ],
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "EXODIA FORCE",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusTriggerRadialDamage",
+    "compatibility": "ZAW",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "EXODIA HUNT",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GroundSlamPull",
+    "compatibility": "ZAW",
+    "upgrades": [
+      [
+        [
+          "xx_unknown",
+          "ADD",
+          null,
+          null
+        ],
+        0.0
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "EXODIA MIGHT",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/FinisherLifesteal",
+    "compatibility": "ZAW",
+    "upgrades": [
+      [
+        [
+          "xx_life_steal",
+          "ADD",
+          null,
+          null
+        ],
+        0.075
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "EXODIA TRIUMPH",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusChannelingDamage",
+    "compatibility": "ZAW",
+    "upgrades": [
+      [
+        [
+          "melee_combo_extra",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.125
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  },
+  {
+    "name": "EXODIA VALOR",
+    "unique_name": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/CritChannelingDamage",
+    "compatibility": "ZAW",
+    "upgrades": [
+      [
+        [
+          "melee_combo_extra",
+          "MUL_ADD",
+          null,
+          null
+        ],
+        0.5
+      ]
+    ],
+    "is_utility": false,
+    "max_rank": 3
+  }
+]

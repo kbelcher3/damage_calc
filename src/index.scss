@@ -1,0 +1,159 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+html {
+  font-size: small;
+}
+
+body {
+  min-width: 960px;
+}
+
+/* ReactModal Fix scrolling */
+.ReactModal__Body--open {
+  overflow: hidden;
+}
+
+.ReactModal__Overlay {
+  overflow-y: auto;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+/* Custom col-* */
+.col-1d8 {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+
+  flex: 0 0 15%;
+  max-width: 15%;
+}
+
+.wf-list-inline .list-inline-item:not(:first-child) {
+  padding-left: 0.5rem; /* Same as padding-right for :not(:last-child) */
+  border-left: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.showcase-builds .build {
+  padding: 0;
+}
+
+.showcase-builds .build:first-child {
+  border-top: 1px solid rgba(0, 0, 0, 0.125) !important;
+}
+
+.build .build-item-header {
+  width: 5rem;
+}
+
+.build .build-item-description span[contenteditable]:empty:before {
+  content: attr(data-placeholder);
+}
+
+.showcase-builds .showcase-build-options {
+  position: absolute;
+  right: 0.5rem;
+  bottom: 0.5rem;
+  z-index: 2;
+}
+
+.showcase-badge {
+  text-align: left;
+}
+
+.modlike-item {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 4px;
+  width: 100%;
+}
+
+.modlike-item-left {
+  text-align: left;
+}
+
+.modlike-item-center {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.modlike-item-thick {
+  height: 80px;
+}
+
+.modlike-item-thin-left {
+  display: flex;
+  flex-direction: column;
+  padding: 4px;
+  width: 100%;
+}
+
+.modlike-item > small {
+  line-height: 1;
+}
+
+.modlike-item-hint {
+  color: $text-muted;
+  display: block;
+  position: absolute;
+  left: auto;
+  right: auto;
+  top: 0;
+  padding: 0 0.2em;
+}
+
+.modlike-item-rank {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0 0.2em;
+  display: flex;
+  align-items: center;
+
+  .rank-indicator {
+    flex: 1 1 auto;
+    font-size: 7px;
+  }
+
+  .rank-adjust-button {
+    flex: 0 0 auto;
+    user-select: none;
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    width: 1em;
+
+    &:not(.disabled) {
+      cursor: pointer;
+    }
+
+    &.disabled {
+      color: $text-muted;
+    }
+  }
+}
+
+.weapon-item {
+  position: relative;
+}
+
+.weapon-item .weapon-dispo {
+  display: block;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  border-radius: 1em;
+  border: 2px solid purple;
+  padding: 0 0.2em;
+}
+
+.wf-footer {
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #f5f5f5;
+}

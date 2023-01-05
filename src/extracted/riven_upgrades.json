@@ -1,0 +1,4956 @@
+{
+  "PISTOL": {
+    "upgrades": [
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013329101872421454,
+        "tag": "WeaponArmorPiercingDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_PUNCTURE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.016666666666666666,
+        "tag": "WeaponCritChanceMod",
+        "upgrades": [
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponCritDamageMod",
+        "upgrades": [
+          [
+            "crit_damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponElectricityDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_ELECTRICITY",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFireDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FIRE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.00830078125,
+        "tag": "WeaponFireRateMod",
+        "upgrades": [
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFreezeDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FREEZE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponImpactDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_IMPACT",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01110901901713425,
+        "tag": "WeaponProcTimeMod",
+        "upgrades": [
+          [
+            "status_duration",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponSlashDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_SLASH",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponStunChanceMod",
+        "upgrades": [
+          [
+            "status_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponToxinDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_POISON",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponAmmoMaxMod",
+        "upgrades": [
+          [
+            "ammo_max",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005555555555555556,
+        "tag": "WeaponClipMaxMod",
+        "upgrades": [
+          [
+            "magazine_size",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.024400871459694988,
+        "tag": "WeaponDamageAmountMod",
+        "upgrades": [
+          [
+            "damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponFireIterationsMod",
+        "upgrades": [
+          [
+            "multishot",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponProjectileSpeedMod",
+        "upgrades": [
+          [
+            "projectile_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.03,
+        "tag": "WeaponPunctureDepthMod",
+        "upgrades": [
+          [
+            "punch_through",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": -0.01,
+        "tag": "WeaponRecoilReductionMod",
+        "upgrades": [
+          [
+            "recoil",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005555555555555556,
+        "tag": "WeaponReloadSpeedMod",
+        "upgrades": [
+          [
+            "reload_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageCorpus",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Corpus",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageGrineer",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Grineer",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageInfested",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Infestation",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.00889967637540453,
+        "tag": "WeaponZoomFovMod",
+        "upgrades": [
+          [
+            "zoom",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "REGULATORS PRIME",
+        "attenuation": 1.0
+      },
+      {
+        "name": "REGULATORS",
+        "attenuation": 1.0
+      },
+      {
+        "name": "DEX PIXIA",
+        "attenuation": 1.0
+      },
+      {
+        "name": "DEX PIXIA PRIME",
+        "attenuation": 1.0
+      },
+      {
+        "name": "BALEFIRE CHARGER",
+        "attenuation": 1.0
+      },
+      {
+        "name": "BURST LASER",
+        "attenuation": 1.45
+      },
+      {
+        "name": "BURST LASER PRIME",
+        "attenuation": 1.45
+      },
+      {
+        "name": "PRISMA BURST LASER",
+        "attenuation": 1.45
+      },
+      {
+        "name": "ACRID",
+        "attenuation": 1.33
+      },
+      {
+        "name": "SPECTRA",
+        "attenuation": 1.49
+      },
+      {
+        "name": "TENET CYCRON",
+        "attenuation": 0.5
+      },
+      {
+        "name": "TENET DETRON",
+        "attenuation": 0.5
+      },
+      {
+        "name": "DETRON",
+        "attenuation": 1.15
+      },
+      {
+        "name": "CESTRA",
+        "attenuation": 1.52
+      },
+      {
+        "name": "DUAL CESTRA",
+        "attenuation": 1.35
+      },
+      {
+        "name": "SPECTRA VANDAL",
+        "attenuation": 1.45
+      },
+      {
+        "name": "SONICOR",
+        "attenuation": 1.15
+      },
+      {
+        "name": "TENET DIPLOS",
+        "attenuation": 0.5
+      },
+      {
+        "name": "CYCRON",
+        "attenuation": 1.2
+      },
+      {
+        "name": "STATICOR",
+        "attenuation": 0.7
+      },
+      {
+        "name": "ANGSTRUM",
+        "attenuation": 1.35
+      },
+      {
+        "name": "PRISMA ANGSTRUM",
+        "attenuation": 1.3
+      },
+      {
+        "name": "TENET SPIREX",
+        "attenuation": 0.5
+      },
+      {
+        "name": "CYANEX",
+        "attenuation": 0.85
+      },
+      {
+        "name": "OCUCOR",
+        "attenuation": 1.2
+      },
+      {
+        "name": "PLINX",
+        "attenuation": 1.2
+      },
+      {
+        "name": "ARCA SCISCO",
+        "attenuation": 1.1
+      },
+      {
+        "name": "TWIN GREMLINS",
+        "attenuation": 1.2
+      },
+      {
+        "name": "VIPER",
+        "attenuation": 1.45
+      },
+      {
+        "name": "KRAKEN",
+        "attenuation": 1.53
+      },
+      {
+        "name": "SEER",
+        "attenuation": 1.5
+      },
+      {
+        "name": "KUVA BRAKK",
+        "attenuation": 0.9
+      },
+      {
+        "name": "KUVA BRAKK",
+        "attenuation": 0.9
+      },
+      {
+        "name": "KUVA KRAKEN",
+        "attenuation": 1.05
+      },
+      {
+        "name": "KUVA KRAKEN",
+        "attenuation": 1.05
+      },
+      {
+        "name": "KUVA NUKOR",
+        "attenuation": 0.5
+      },
+      {
+        "name": "KUVA SEER",
+        "attenuation": 0.95
+      },
+      {
+        "name": "KUVA SEER",
+        "attenuation": 0.95
+      },
+      {
+        "name": "KUVA TWIN STUBBAS",
+        "attenuation": 0.9
+      },
+      {
+        "name": "TWIN GRAKATAS",
+        "attenuation": 1.15
+      },
+      {
+        "name": "PRISMA TWIN GREMLINS",
+        "attenuation": 1.15
+      },
+      {
+        "name": "STUG",
+        "attenuation": 1.48
+      },
+      {
+        "name": "BRAKK",
+        "attenuation": 1.25
+      },
+      {
+        "name": "MARELOK",
+        "attenuation": 1.2
+      },
+      {
+        "name": "NUKOR",
+        "attenuation": 1.45
+      },
+      {
+        "name": "QUATZ",
+        "attenuation": 1.2
+      },
+      {
+        "name": "TWIN KOHMAK",
+        "attenuation": 1.25
+      },
+      {
+        "name": "KOHMAK",
+        "attenuation": 1.35
+      },
+      {
+        "name": "TWIN ROGGA",
+        "attenuation": 1.3
+      },
+      {
+        "name": "KULSTAR",
+        "attenuation": 1.3
+      },
+      {
+        "name": "STUBBA",
+        "attenuation": 1.35
+      },
+      {
+        "name": "ATOMOS",
+        "attenuation": 0.9
+      },
+      {
+        "name": "VIPER WRAITH",
+        "attenuation": 1.4
+      },
+      {
+        "name": "TWIN VIPERS WRAITH",
+        "attenuation": 1.41
+      },
+      {
+        "name": "CATABOLYST",
+        "attenuation": 1.0
+      },
+      {
+        "name": "POX",
+        "attenuation": 1.2
+      },
+      {
+        "name": "ZYMOS",
+        "attenuation": 1.05
+      },
+      {
+        "name": "DUAL TOXOCYST",
+        "attenuation": 1.35
+      },
+      {
+        "name": "TYSIS",
+        "attenuation": 1.45
+      },
+      {
+        "name": "EMBOLIST",
+        "attenuation": 1.4
+      },
+      {
+        "name": "MK1-FURIS",
+        "attenuation": 1.4
+      },
+      {
+        "name": "MK1-KUNAI",
+        "attenuation": 1.51
+      },
+      {
+        "name": "TELOS AKBOLTO",
+        "attenuation": 1.25
+      },
+      {
+        "name": "GAMMACOR",
+        "attenuation": 1.15
+      },
+      {
+        "name": "SYNOID GAMMACOR",
+        "attenuation": 1.05
+      },
+      {
+        "name": "SANCTI CASTANAS",
+        "attenuation": 1.35
+      },
+      {
+        "name": "SECURA DUAL CESTRA",
+        "attenuation": 1.3
+      },
+      {
+        "name": "RAKTA BALLISTICA",
+        "attenuation": 1.2
+      },
+      {
+        "name": "VAYKOR MARELOK",
+        "attenuation": 1.1
+      },
+      {
+        "name": "AKLEX",
+        "attenuation": 1.05
+      },
+      {
+        "name": "AKLEX PRIME",
+        "attenuation": 0.85
+      },
+      {
+        "name": "AFURIS",
+        "attenuation": 1.45
+      },
+      {
+        "name": "AKBOLTO",
+        "attenuation": 1.3
+      },
+      {
+        "name": "AKLATO",
+        "attenuation": 1.52
+      },
+      {
+        "name": "AKBRONCO",
+        "attenuation": 1.35
+      },
+      {
+        "name": "TWIN VIPERS",
+        "attenuation": 1.45
+      },
+      {
+        "name": "AKMAGNUS",
+        "attenuation": 1.35
+      },
+      {
+        "name": "AKVASTO",
+        "attenuation": 1.25
+      },
+      {
+        "name": "AKBRONCO PRIME",
+        "attenuation": 1.3
+      },
+      {
+        "name": "FOCUSED NOSAM CUTTER",
+        "attenuation": 1.55
+      },
+      {
+        "name": "ADVANCED NOSAM CUTTER",
+        "attenuation": 1.55
+      },
+      {
+        "name": "SUNPOINT PLASMA DRILL",
+        "attenuation": 1.55
+      },
+      {
+        "name": "NOSAM CUTTER",
+        "attenuation": 1.55
+      },
+      {
+        "name": "FURIS",
+        "attenuation": 1.35
+      },
+      {
+        "name": "FURIS VARIANT",
+        "attenuation": 1.35
+      },
+      {
+        "name": "BRONCO PRIME",
+        "attenuation": 1.4
+      },
+      {
+        "name": "SICARUS",
+        "attenuation": 1.2
+      },
+      {
+        "name": "SICARUS VARIANT",
+        "attenuation": 1.2
+      },
+      {
+        "name": "BOLTO",
+        "attenuation": 1.51
+      },
+      {
+        "name": "BRONCO",
+        "attenuation": 1.45
+      },
+      {
+        "name": "BRONCO VARIANT",
+        "attenuation": 1.5
+      },
+      {
+        "name": "LEX",
+        "attenuation": 1.25
+      },
+      {
+        "name": "LEX VARIANT",
+        "attenuation": 1.25
+      },
+      {
+        "name": "LATO PRIME",
+        "attenuation": 1.35
+      },
+      {
+        "name": "LATO VANDAL",
+        "attenuation": 1.35
+      },
+      {
+        "name": "PISTOL",
+        "attenuation": 1.0
+      },
+      {
+        "name": "LATO",
+        "attenuation": 1.4
+      },
+      {
+        "name": "LATO VARIANT",
+        "attenuation": 1.4
+      },
+      {
+        "name": "VASTO",
+        "attenuation": 1.4
+      },
+      {
+        "name": "EUPHONA PRIME",
+        "attenuation": 0.8
+      },
+      {
+        "name": "BALLISTICA",
+        "attenuation": 1.25
+      },
+      {
+        "name": "ZYLOK",
+        "attenuation": 1.25
+      },
+      {
+        "name": "DEX FURIS",
+        "attenuation": 1.39
+      },
+      {
+        "name": "AKZANI",
+        "attenuation": 1.52
+      },
+      {
+        "name": "MAGNUS",
+        "attenuation": 1.53
+      },
+      {
+        "name": "AKBOLTO PRIME",
+        "attenuation": 1.15
+      },
+      {
+        "name": "AKJAGARA PRIME",
+        "attenuation": 0.9
+      },
+      {
+        "name": "AKSOMATI PRIME",
+        "attenuation": 0.95
+      },
+      {
+        "name": "AKSTILETTO PRIME",
+        "attenuation": 0.65
+      },
+      {
+        "name": "BALLISTICA PRIME",
+        "attenuation": 1.2
+      },
+      {
+        "name": "LEX PRIME",
+        "attenuation": 1.2
+      },
+      {
+        "name": "PANDERO PRIME",
+        "attenuation": 0.75
+      },
+      {
+        "name": "PYRANA PRIME",
+        "attenuation": 0.6
+      },
+      {
+        "name": "SICARUS PRIME",
+        "attenuation": 1.1
+      },
+      {
+        "name": "AKVASTO PRIME",
+        "attenuation": 1.2
+      },
+      {
+        "name": "VASTO PRIME",
+        "attenuation": 1.35
+      },
+      {
+        "name": "ZAKTI PRIME",
+        "attenuation": 0.9
+      },
+      {
+        "name": "HYSTRIX",
+        "attenuation": 1.2
+      },
+      {
+        "name": "AKARIUS",
+        "attenuation": 1.05
+      },
+      {
+        "name": "PYRANA",
+        "attenuation": 0.95
+      },
+      {
+        "name": "AKSOMATI",
+        "attenuation": 1.25
+      },
+      {
+        "name": "AZIMA",
+        "attenuation": 1.25
+      },
+      {
+        "name": "AKSTILETTO",
+        "attenuation": 0.95
+      },
+      {
+        "name": "AKJAGARA",
+        "attenuation": 1.05
+      },
+      {
+        "name": "PANDERO",
+        "attenuation": 1.1
+      },
+      {
+        "name": "ZAKTI",
+        "attenuation": 1.25
+      },
+      {
+        "name": "ATHODAI",
+        "attenuation": 1.0
+      },
+      {
+        "name": "VELOX",
+        "attenuation": 1.15
+      },
+      {
+        "name": "KNELL",
+        "attenuation": 1.25
+      },
+      {
+        "name": "EPITAPH",
+        "attenuation": 0.5
+      },
+      {
+        "name": "KOMPRESSA",
+        "attenuation": 0.5
+      },
+      {
+        "name": "/Lotus/Language/Changyou/DumplingBombName",
+        "attenuation": 1.0
+      },
+      {
+        "name": "FUSILAI",
+        "attenuation": 1.35
+      },
+      {
+        "name": "SPIRA",
+        "attenuation": 1.3
+      },
+      {
+        "name": "SPIRA PRIME",
+        "attenuation": 1.2
+      },
+      {
+        "name": "HIKOU PRIME",
+        "attenuation": 1.25
+      },
+      {
+        "name": "CASTANAS",
+        "attenuation": 1.4
+      },
+      {
+        "name": "TALONS",
+        "attenuation": 1.44
+      },
+      {
+        "name": "KUNAI",
+        "attenuation": 1.51
+      },
+      {
+        "name": "DESPAIR",
+        "attenuation": 1.3
+      },
+      {
+        "name": "HIKOU",
+        "attenuation": 1.3
+      },
+      {
+        "name": "SOLSTICE SPHERES",
+        "attenuation": 0.77
+      },
+      {
+        "name": "HIKOU VARIANT",
+        "attenuation": 0.77
+      },
+      {
+        "name": "SEPULCRUM",
+        "attenuation": 0.95
+      },
+      {
+        "name": "MARA DETRON",
+        "attenuation": 1.0
+      }
+    ]
+  },
+  "RIFLE": {
+    "upgrades": [
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013329101872421454,
+        "tag": "WeaponArmorPiercingDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_PUNCTURE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.016666666666666666,
+        "tag": "WeaponCritChanceMod",
+        "upgrades": [
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponCritDamageMod",
+        "upgrades": [
+          [
+            "crit_damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponElectricityDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_ELECTRICITY",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFireDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FIRE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.0066707095209217705,
+        "tag": "WeaponFireRateMod",
+        "upgrades": [
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            null
+          ],
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            "BOW"
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFreezeDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FREEZE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponImpactDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_IMPACT",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01110901901713425,
+        "tag": "WeaponProcTimeMod",
+        "upgrades": [
+          [
+            "status_duration",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponSlashDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_SLASH",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponStunChanceMod",
+        "upgrades": [
+          [
+            "status_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponToxinDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_POISON",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005549389567147614,
+        "tag": "WeaponAmmoMaxMod",
+        "upgrades": [
+          [
+            "ammo_max",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005555555555555556,
+        "tag": "WeaponClipMaxMod",
+        "upgrades": [
+          [
+            "magazine_size",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.018333333333333333,
+        "tag": "WeaponDamageAmountMod",
+        "upgrades": [
+          [
+            "damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponFireIterationsMod",
+        "upgrades": [
+          [
+            "multishot",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponProjectileSpeedMod",
+        "upgrades": [
+          [
+            "projectile_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.03,
+        "tag": "WeaponPunctureDepthMod",
+        "upgrades": [
+          [
+            "punch_through",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": -0.01,
+        "tag": "WeaponRecoilReductionMod",
+        "upgrades": [
+          [
+            "recoil",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005555555555555556,
+        "tag": "WeaponReloadSpeedMod",
+        "upgrades": [
+          [
+            "reload_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageCorpus",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Corpus",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageGrineer",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Grineer",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageInfested",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Infestation",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.006666666666666667,
+        "tag": "WeaponZoomFovMod",
+        "upgrades": [
+          [
+            "zoom",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Artemis Bow",
+        "attenuation": 1.0
+      },
+      {
+        "name": "ARTEMIS BOW PRIME",
+        "attenuation": 1.0
+      },
+      {
+        "name": "CRYOTRA",
+        "attenuation": 1.0
+      },
+      {
+        "name": "MULTRON",
+        "attenuation": 1.0
+      },
+      {
+        "name": "HELSTRUM",
+        "attenuation": 1.0
+      },
+      {
+        "name": "TAZICOR",
+        "attenuation": 1.0
+      },
+      {
+        "name": "VULCAX",
+        "attenuation": 1.0
+      },
+      {
+        "name": "DETH MACHINE RIFLE",
+        "attenuation": 1.455
+      },
+      {
+        "name": "ARTAX",
+        "attenuation": 1.0
+      },
+      {
+        "name": "LASER RIFLE",
+        "attenuation": 1.21
+      },
+      {
+        "name": "DETH MACHINE RIFLE PRIME",
+        "attenuation": 1.455
+      },
+      {
+        "name": "PRIME LASER RIFLE",
+        "attenuation": 1.21
+      },
+      {
+        "name": "STINGER PRIME",
+        "attenuation": 1.315
+      },
+      {
+        "name": "VULKLOK PRIME",
+        "attenuation": 1.245
+      },
+      {
+        "name": "STINGER",
+        "attenuation": 1.315
+      },
+      {
+        "name": "VULKLOK",
+        "attenuation": 1.245
+      },
+      {
+        "name": "VERGLAS",
+        "attenuation": 1.3
+      },
+      {
+        "name": "SIMULOR",
+        "attenuation": 1.2
+      },
+      {
+        "name": "TORID",
+        "attenuation": 1.3
+      },
+      {
+        "name": "IGNIS",
+        "attenuation": 0.6
+      },
+      {
+        "name": "IGNIS WRAITH",
+        "attenuation": 0.55
+      },
+      {
+        "name": "OGRIS",
+        "attenuation": 1.3
+      },
+      {
+        "name": "SUPRA",
+        "attenuation": 1.05
+      },
+      {
+        "name": "FLUX RIFLE",
+        "attenuation": 1.55
+      },
+      {
+        "name": "DERA VANDAL",
+        "attenuation": 1.35
+      },
+      {
+        "name": "DERA",
+        "attenuation": 1.4
+      },
+      {
+        "name": "LANKA",
+        "attenuation": 1.0
+      },
+      {
+        "name": "[PH]BE FERROX",
+        "attenuation": 0.5
+      },
+      {
+        "name": "TENET FLUX RIFLE",
+        "attenuation": 0.5
+      },
+      {
+        "name": "TENET TETRA",
+        "attenuation": 0.5
+      },
+      {
+        "name": "LENZ",
+        "attenuation": 0.95
+      },
+      {
+        "name": "AMPREX",
+        "attenuation": 0.75
+      },
+      {
+        "name": "TETRA",
+        "attenuation": 1.5
+      },
+      {
+        "name": "PRISMA TETRA",
+        "attenuation": 1.45
+      },
+      {
+        "name": "AMBASSADOR",
+        "attenuation": 1.05
+      },
+      {
+        "name": "OPTICOR VANDAL",
+        "attenuation": 1.0
+      },
+      {
+        "name": "OPTICOR VARIANT",
+        "attenuation": 1.0
+      },
+      {
+        "name": "OPTICOR",
+        "attenuation": 1.1
+      },
+      {
+        "name": "TENET ENVOY",
+        "attenuation": 0.5
+      },
+      {
+        "name": "GLAXION VANDAL",
+        "attenuation": 1.25
+      },
+      {
+        "name": "GLAXION",
+        "attenuation": 1.3
+      },
+      {
+        "name": "STAHLTA",
+        "attenuation": 0.85
+      },
+      {
+        "name": "KOMOREX",
+        "attenuation": 1.1
+      },
+      {
+        "name": "BATTACOR",
+        "attenuation": 1.05
+      },
+      {
+        "name": "QUANTA",
+        "attenuation": 1.4
+      },
+      {
+        "name": "QUANTA VANDAL",
+        "attenuation": 1.35
+      },
+      {
+        "name": "CARMINE PENTA",
+        "attenuation": 1.3
+      },
+      {
+        "name": "PENTA",
+        "attenuation": 1.35
+      },
+      {
+        "name": "SUPRA VANDAL",
+        "attenuation": 0.95
+      },
+      {
+        "name": "FERROX",
+        "attenuation": 1.15
+      },
+      {
+        "name": "KUVA BRAMMA",
+        "attenuation": 0.6
+      },
+      {
+        "name": "KUVA HIND",
+        "attenuation": 1.05
+      },
+      {
+        "name": "KUVA KARAK",
+        "attenuation": 1.0
+      },
+      {
+        "name": "KUVA OGRIS",
+        "attenuation": 0.9
+      },
+      {
+        "name": "KUVA QUARTAKK",
+        "attenuation": 1.0
+      },
+      {
+        "name": "KUVA TONKOR",
+        "attenuation": 0.95
+      },
+      {
+        "name": "KUVA ZARR",
+        "attenuation": 0.5
+      },
+      {
+        "name": "HIND",
+        "attenuation": 1.42
+      },
+      {
+        "name": "GRAKATA",
+        "attenuation": 1.35
+      },
+      {
+        "name": "GRINLOK",
+        "attenuation": 1.3
+      },
+      {
+        "name": "PRISMA GRINLOK",
+        "attenuation": 1.25
+      },
+      {
+        "name": "KARAK",
+        "attenuation": 1.35
+      },
+      {
+        "name": "KARAK WRAITH",
+        "attenuation": 1.28
+      },
+      {
+        "name": "MITER",
+        "attenuation": 1.5
+      },
+      {
+        "name": "VULKAR",
+        "attenuation": 1.45
+      },
+      {
+        "name": "VULKAR WRAITH",
+        "attenuation": 1.4
+      },
+      {
+        "name": "VULKAR WRAITH",
+        "attenuation": 1.45
+      },
+      {
+        "name": "ZARR",
+        "attenuation": 1.15
+      },
+      {
+        "name": "JAVLOK",
+        "attenuation": 1.3
+      },
+      {
+        "name": "QUARTAKK",
+        "attenuation": 1.25
+      },
+      {
+        "name": "BUZLOK",
+        "attenuation": 1.45
+      },
+      {
+        "name": "TONKOR",
+        "attenuation": 1.3
+      },
+      {
+        "name": "HARPAK",
+        "attenuation": 1.55
+      },
+      {
+        "name": "KUVA CHAKKHURR",
+        "attenuation": 0.85
+      },
+      {
+        "name": "ARGONAK",
+        "attenuation": 1.25
+      },
+      {
+        "name": "PRISMA GORGON",
+        "attenuation": 1.3
+      },
+      {
+        "name": "GORGON WRAITH",
+        "attenuation": 1.35
+      },
+      {
+        "name": "MUTALIST CERNOS",
+        "attenuation": 1.35
+      },
+      {
+        "name": "MUTALIST QUANTA",
+        "attenuation": 1.5
+      },
+      {
+        "name": "SPOROTHRIX",
+        "attenuation": 1.1
+      },
+      {
+        "name": "HEMA",
+        "attenuation": 1.3
+      },
+      {
+        "name": "PARACYST",
+        "attenuation": 1.31
+      },
+      {
+        "name": "SYNAPSE",
+        "attenuation": 1.31
+      },
+      {
+        "name": "MK1-PARIS",
+        "attenuation": 1.45
+      },
+      {
+        "name": "MOTE AMP",
+        "attenuation": 1.0
+      },
+      {
+        "name": "AMP",
+        "attenuation": 1.0
+      },
+      {
+        "name": "BASMU",
+        "attenuation": 1.15
+      },
+      {
+        "name": "SHEDU",
+        "attenuation": 0.8
+      },
+      {
+        "name": "TELOS BOLTOR",
+        "attenuation": 1.15
+      },
+      {
+        "name": "SYNOID SIMULOR",
+        "attenuation": 1.15
+      },
+      {
+        "name": "SECURA PENTA",
+        "attenuation": 1.3
+      },
+      {
+        "name": "RAKTA CERNOS",
+        "attenuation": 1.25
+      },
+      {
+        "name": "CERNOS",
+        "attenuation": 1.3
+      },
+      {
+        "name": "DAIKYU",
+        "attenuation": 1.25
+      },
+      {
+        "name": "CERNOS PRIME",
+        "attenuation": 1.25
+      },
+      {
+        "name": "PROBOSCIS CERNOS",
+        "attenuation": 0.55
+      },
+      {
+        "name": "PARIS",
+        "attenuation": 1.4
+      },
+      {
+        "name": "PARIS PRIME",
+        "attenuation": 1.35
+      },
+      {
+        "name": "DREAD",
+        "attenuation": 1.3
+      },
+      {
+        "name": "PARIS",
+        "attenuation": 0.965
+      },
+      {
+        "name": "DEX SYBARIS",
+        "attenuation": 1.2
+      },
+      {
+        "name": "TIBERON",
+        "attenuation": 1.05
+      },
+      {
+        "name": "RUBICO",
+        "attenuation": 0.9
+      },
+      {
+        "name": "NAGANTAKA",
+        "attenuation": 1.3
+      },
+      {
+        "name": "ZENITH",
+        "attenuation": 1.1
+      },
+      {
+        "name": "PANTHERA",
+        "attenuation": 1.4
+      },
+      {
+        "name": "BAZA PRIME",
+        "attenuation": 0.95
+      },
+      {
+        "name": "BOLTOR PRIME",
+        "attenuation": 1.15
+      },
+      {
+        "name": "BURSTON PRIME",
+        "attenuation": 1.35
+      },
+      {
+        "name": "PANTHERA PRIME",
+        "attenuation": 1.15
+      },
+      {
+        "name": "SOMA PRIME",
+        "attenuation": 1.0
+      },
+      {
+        "name": "STRADAVAR PRIME",
+        "attenuation": 1.1
+      },
+      {
+        "name": "SYBARIS PRIME",
+        "attenuation": 1.15
+      },
+      {
+        "name": "TENORA PRIME",
+        "attenuation": 0.5
+      },
+      {
+        "name": "TIBERON PRIME",
+        "attenuation": 0.9
+      },
+      {
+        "name": "VECTIS PRIME",
+        "attenuation": 0.85
+      },
+      {
+        "name": "ZHUGE PRIME",
+        "attenuation": 1.15
+      },
+      {
+        "name": "ZHUGE",
+        "attenuation": 1.2
+      },
+      {
+        "name": "RUBICO PRIME",
+        "attenuation": 0.6
+      },
+      {
+        "name": "ACCELTRA",
+        "attenuation": 0.6
+      },
+      {
+        "name": "STRADAVAR",
+        "attenuation": 1.1
+      },
+      {
+        "name": "TENORA",
+        "attenuation": 1.1
+      },
+      {
+        "name": "SCOURGE",
+        "attenuation": 1.15
+      },
+      {
+        "name": "QUELLOR",
+        "attenuation": 1.1
+      },
+      {
+        "name": "VELDT",
+        "attenuation": 1.3
+      },
+      {
+        "name": "BAZA",
+        "attenuation": 1.05
+      },
+      {
+        "name": "FULMIN",
+        "attenuation": 0.65
+      },
+      {
+        "name": "SYBARIS",
+        "attenuation": 1.25
+      },
+      {
+        "name": "ATTICA",
+        "attenuation": 1.42
+      },
+      {
+        "name": "LATRON WRAITH",
+        "attenuation": 1.35
+      },
+      {
+        "name": "BOLTOR",
+        "attenuation": 1.25
+      },
+      {
+        "name": "BRATON PRIME",
+        "attenuation": 1.25
+      },
+      {
+        "name": "BURSTON",
+        "attenuation": 1.45
+      },
+      {
+        "name": "GORGON",
+        "attenuation": 1.4
+      },
+      {
+        "name": "LATRON PRIME",
+        "attenuation": 1.3
+      },
+      {
+        "name": "BRATON",
+        "attenuation": 1.35
+      },
+      {
+        "name": "LATRON",
+        "attenuation": 1.4
+      },
+      {
+        "name": "SNIPETRON",
+        "attenuation": 1.3
+      },
+      {
+        "name": "MK1-BRATON",
+        "attenuation": 1.35
+      },
+      {
+        "name": "SOMA",
+        "attenuation": 1.1
+      },
+      {
+        "name": "VECTIS",
+        "attenuation": 1.05
+      },
+      {
+        "name": "BRATON VANDAL",
+        "attenuation": 1.3
+      },
+      {
+        "name": "SNIPETRON VANDAL",
+        "attenuation": 1.25
+      },
+      {
+        "name": "TRUMNA",
+        "attenuation": 0.75
+      },
+      {
+        "name": "PRISMA GRAKATA",
+        "attenuation": 1.3
+      }
+    ]
+  },
+  "SHOTGUN": {
+    "upgrades": [
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013329101872421454,
+        "tag": "WeaponArmorPiercingDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_PUNCTURE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponCritChanceMod",
+        "upgrades": [
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponCritDamageMod",
+        "upgrades": [
+          [
+            "crit_damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponElectricityDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_ELECTRICITY",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFireDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FIRE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponFireRateMod",
+        "upgrades": [
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            null
+          ],
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            "BOW"
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFreezeDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FREEZE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponImpactDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_IMPACT",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01110901901713425,
+        "tag": "WeaponProcTimeMod",
+        "upgrades": [
+          [
+            "status_duration",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponSlashDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_SLASH",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponStunChanceMod",
+        "upgrades": [
+          [
+            "status_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponToxinDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_POISON",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponAmmoMaxMod",
+        "upgrades": [
+          [
+            "ammo_max",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005555555555555556,
+        "tag": "WeaponClipMaxMod",
+        "upgrades": [
+          [
+            "magazine_size",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.018300653594771243,
+        "tag": "WeaponDamageAmountMod",
+        "upgrades": [
+          [
+            "damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponFireIterationsMod",
+        "upgrades": [
+          [
+            "multishot",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponProjectileSpeedMod",
+        "upgrades": [
+          [
+            "projectile_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.03,
+        "tag": "WeaponPunctureDepthMod",
+        "upgrades": [
+          [
+            "punch_through",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": -0.01,
+        "tag": "WeaponRecoilReductionMod",
+        "upgrades": [
+          [
+            "recoil",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005555555555555556,
+        "tag": "WeaponReloadSpeedMod",
+        "upgrades": [
+          [
+            "reload_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageCorpus",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Corpus",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageGrineer",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Grineer",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageInfested",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Infestation",
+            null
+          ]
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "SWEEPER PRIME",
+        "attenuation": 1.0
+      },
+      {
+        "name": "SWEEPER",
+        "attenuation": 1.0
+      },
+      {
+        "name": "TENET ARCA PLASMOR",
+        "attenuation": 0.5
+      },
+      {
+        "name": "EXERGIS",
+        "attenuation": 1.1
+      },
+      {
+        "name": "ARCA PLASMOR",
+        "attenuation": 0.7
+      },
+      {
+        "name": "CONVECTRIX",
+        "attenuation": 1.46
+      },
+      {
+        "name": "KUVA DRAKGOON",
+        "attenuation": 1.1
+      },
+      {
+        "name": "KUVA HEK",
+        "attenuation": 0.5
+      },
+      {
+        "name": "KUVA KOHM",
+        "attenuation": 0.85
+      },
+      {
+        "name": "DRAKGOON",
+        "attenuation": 1.4
+      },
+      {
+        "name": "KOHM",
+        "attenuation": 1.3
+      },
+      {
+        "name": "BUBONICO",
+        "attenuation": 0.7
+      },
+      {
+        "name": "PHAGE",
+        "attenuation": 1.46
+      },
+      {
+        "name": "MK1-STRUN",
+        "attenuation": 1.45
+      },
+      {
+        "name": "SANCTI TIGRIS",
+        "attenuation": 0.95
+      },
+      {
+        "name": "VAYKOR HEK",
+        "attenuation": 1.1
+      },
+      {
+        "name": "TIGRIS",
+        "attenuation": 1.1
+      },
+      {
+        "name": "ASTILLA PRIME",
+        "attenuation": 0.5
+      },
+      {
+        "name": "CORINTH PRIME",
+        "attenuation": 0.9
+      },
+      {
+        "name": "TIGRIS PRIME",
+        "attenuation": 0.85
+      },
+      {
+        "name": "PHANTASMA",
+        "attenuation": 1.05
+      },
+      {
+        "name": "CEDO",
+        "attenuation": 0.6
+      },
+      {
+        "name": "ASTILLA",
+        "attenuation": 1.2
+      },
+      {
+        "name": "CORINTH",
+        "attenuation": 1.1
+      },
+      {
+        "name": "SOBEK",
+        "attenuation": 1.33
+      },
+      {
+        "name": "BOAR",
+        "attenuation": 1.45
+      },
+      {
+        "name": "BOAR PRIME",
+        "attenuation": 1.34
+      },
+      {
+        "name": "HEK",
+        "attenuation": 1.2
+      },
+      {
+        "name": "HEK",
+        "attenuation": 1.2
+      },
+      {
+        "name": "STRUN",
+        "attenuation": 1.4
+      },
+      {
+        "name": "STRUN WRAITH",
+        "attenuation": 1.35
+      }
+    ]
+  },
+  "MELEE": {
+    "upgrades": [
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.018300653594771243,
+        "tag": "WeaponMeleeDamageMod",
+        "upgrades": [
+          [
+            "damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponArmorPiercingDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_PUNCTURE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponImpactDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_IMPACT",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponSlashDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_SLASH",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.02,
+        "tag": "WeaponCritChanceMod",
+        "upgrades": [
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ],
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            "++FIXME++ APPLIED ON HEAVY ATTACKS ONLY ++FIXME++"
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponCritDamageMod",
+        "upgrades": [
+          [
+            "crit_damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponElectricityDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_ELECTRICITY",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFireDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FIRE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFreezeDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FREEZE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponToxinDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_POISON",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01110901901713425,
+        "tag": "WeaponProcTimeMod",
+        "upgrades": [
+          [
+            "status_duration",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponMeleeFactionDamageCorpus",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Corpus",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponMeleeFactionDamageGrineer",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Grineer",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponMeleeFactionDamageInfested",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Infestation",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.006100942872989462,
+        "tag": "WeaponFireRateMod",
+        "upgrades": [
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponStunChanceMod",
+        "upgrades": [
+          [
+            "status_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.09,
+        "tag": "ComboDurationMod",
+        "upgrades": [
+          [
+            "melee_combo_duration",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "SlideAttackCritChanceMod",
+        "upgrades": [
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ],
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.02157920549288867,
+        "tag": "WeaponMeleeRangeIncMod",
+        "upgrades": [
+          [
+            "melee_range",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponMeleeFinisherDamageMod",
+        "upgrades": [
+          [
+            "melee_finisher_damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.008159564823209429,
+        "tag": "WeaponMeleeComboEfficiencyMod",
+        "upgrades": [
+          [
+            "melee_combo_efficiency",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.2722400857449089,
+        "tag": "WeaponMeleeComboInitialBonusMod",
+        "upgrades": [
+          [
+            "melee_combo_initial_bonus",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": false,
+        "can_be_curse": true,
+        "value": -0.011650485436893204,
+        "tag": "WeaponMeleeComboPointsOnHitMod",
+        "upgrades": [
+          [
+            "melee_combo_miss",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.0065298507462686565,
+        "tag": "WeaponMeleeComboBonusOnHitMod",
+        "upgrades": [
+          [
+            "melee_combo_extra",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "VALKYR TALONS",
+        "attenuation": 1.0
+      },
+      {
+        "name": "VALKYR PRIME TALONS",
+        "attenuation": 1.0
+      },
+      {
+        "name": "Exalted Blade",
+        "attenuation": 1.0
+      },
+      {
+        "name": "EXALTED UMBRA BLADE",
+        "attenuation": 1.0
+      },
+      {
+        "name": "EXALTED PRIME BLADE",
+        "attenuation": 1.0
+      },
+      {
+        "name": "EXALTED UMBRA BLADE",
+        "attenuation": 1.0
+      },
+      {
+        "name": "DIWATA",
+        "attenuation": 1.0
+      },
+      {
+        "name": "DIWATA PRIME",
+        "attenuation": 1.0
+      },
+      {
+        "name": "GARUDA'S TALONS",
+        "attenuation": 1.0
+      },
+      {
+        "name": "IRON STAFF",
+        "attenuation": 1.0
+      },
+      {
+        "name": "IRON STAFF PRIME",
+        "attenuation": 1.0
+      },
+      {
+        "name": "Desert Wind",
+        "attenuation": 1.0
+      },
+      {
+        "name": "Shadow Claws",
+        "attenuation": 0.5
+      },
+      {
+        "name": "KOGAKE",
+        "attenuation": 1.46
+      },
+      {
+        "name": "DECONSTRUCTOR PRIME",
+        "attenuation": 1.25
+      },
+      {
+        "name": "DECONSTRUCTOR",
+        "attenuation": 1.25
+      },
+      {
+        "name": "HELIOCOR",
+        "attenuation": 1.35
+      },
+      {
+        "name": "PROVA",
+        "attenuation": 1.4
+      },
+      {
+        "name": "PROVA VANDAL",
+        "attenuation": 1.35
+      },
+      {
+        "name": "TENET LIVIA",
+        "attenuation": 0.5
+      },
+      {
+        "name": "TENET GRIGORI",
+        "attenuation": 0.5
+      },
+      {
+        "name": "OHMA",
+        "attenuation": 1.15
+      },
+      {
+        "name": "KRESKA",
+        "attenuation": 1.3
+      },
+      {
+        "name": "XORIS",
+        "attenuation": 0.65
+      },
+      {
+        "name": "FALCOR",
+        "attenuation": 1.3
+      },
+      {
+        "name": "STROPHA",
+        "attenuation": 0.5
+      },
+      {
+        "name": "ARCA TITRON",
+        "attenuation": 1.3
+      },
+      {
+        "name": "OBEX",
+        "attenuation": 1.3
+      },
+      {
+        "name": "PRISMA OBEX",
+        "attenuation": 1.25
+      },
+      {
+        "name": "SERRO",
+        "attenuation": 1.38
+      },
+      {
+        "name": "TENET AGENDUS",
+        "attenuation": 0.5
+      },
+      {
+        "name": "LECTA",
+        "attenuation": 1.25
+      },
+      {
+        "name": "GALVACORD",
+        "attenuation": 1.3
+      },
+      {
+        "name": "RIPKAS",
+        "attenuation": 1.38
+      },
+      {
+        "name": "SHEEV",
+        "attenuation": 1.35
+      },
+      {
+        "name": "KESHEG",
+        "attenuation": 1.35
+      },
+      {
+        "name": "JAT KITTAG",
+        "attenuation": 1.35
+      },
+      {
+        "name": "DUAL CLEAVERS",
+        "attenuation": 1.2
+      },
+      {
+        "name": "MACHETE",
+        "attenuation": 1.45
+      },
+      {
+        "name": "PRISMA DUAL CLEAVERS",
+        "attenuation": 1.1
+      },
+      {
+        "name": "PRISMA MACHETE",
+        "attenuation": 1.45
+      },
+      {
+        "name": "MACHETE WRAITH",
+        "attenuation": 1.4
+      },
+      {
+        "name": "ACK & BRUNT",
+        "attenuation": 1.35
+      },
+      {
+        "name": "ATTERAX",
+        "attenuation": 1.05
+      },
+      {
+        "name": "HALIKAR",
+        "attenuation": 1.44
+      },
+      {
+        "name": "HALIKAR WRAITH",
+        "attenuation": 0.75
+      },
+      {
+        "name": "TWIN BASOLK",
+        "attenuation": 1.3
+      },
+      {
+        "name": "TWIN KROHKUR",
+        "attenuation": 1.2
+      },
+      {
+        "name": "KROHKUR",
+        "attenuation": 1.35
+      },
+      {
+        "name": "JAT KUSAR",
+        "attenuation": 1.1
+      },
+      {
+        "name": "KUVA SHILDEG",
+        "attenuation": 0.75
+      },
+      {
+        "name": "BROKEN SCEPTER",
+        "attenuation": 1.4
+      },
+      {
+        "name": "KORRUDO",
+        "attenuation": 1.35
+      },
+      {
+        "name": "SYDON",
+        "attenuation": 1.35
+      },
+      {
+        "name": "VASTILOK",
+        "attenuation": 0.5
+      },
+      {
+        "name": "CERATA",
+        "attenuation": 1.36
+      },
+      {
+        "name": "PATHOCYST",
+        "attenuation": 1.3
+      },
+      {
+        "name": "CAUSTACYST",
+        "attenuation": 1.3
+      },
+      {
+        "name": "KERATINOS",
+        "attenuation": 1.0
+      },
+      {
+        "name": "HIRUDO",
+        "attenuation": 1.1
+      },
+      {
+        "name": "ARUM SPINOSA",
+        "attenuation": 1.05
+      },
+      {
+        "name": "PULMONARS",
+        "attenuation": 1.05
+      },
+      {
+        "name": "PUPACYST",
+        "attenuation": 1.3
+      },
+      {
+        "name": "MIOS",
+        "attenuation": 1.25
+      },
+      {
+        "name": "MIRE",
+        "attenuation": 1.3
+      },
+      {
+        "name": "LESION",
+        "attenuation": 0.7
+      },
+      {
+        "name": "SCOLIAC",
+        "attenuation": 1.3
+      },
+      {
+        "name": "MK1-BO",
+        "attenuation": 1.4
+      },
+      {
+        "name": "MK1-FURAX",
+        "attenuation": 1.45
+      },
+      {
+        "name": "PARACESIS",
+        "attenuation": 0.6
+      },
+      {
+        "name": "ZAW",
+        "attenuation": 1.0
+      },
+      {
+        "name": "TELOS BOLTACE",
+        "attenuation": 1.05
+      },
+      {
+        "name": "SYNOID HELIOCOR",
+        "attenuation": 1.35
+      },
+      {
+        "name": "SANCTI MAGISTAR",
+        "attenuation": 1.25
+      },
+      {
+        "name": "SECURA LECTA",
+        "attenuation": 1.1
+      },
+      {
+        "name": "RAKTA DARK DAGGER",
+        "attenuation": 0.95
+      },
+      {
+        "name": "VAYKOR SYDON",
+        "attenuation": 1.3
+      },
+      {
+        "name": "SCINDO PRIME",
+        "attenuation": 1.25
+      },
+      {
+        "name": "SCINDO",
+        "attenuation": 1.35
+      },
+      {
+        "name": "DUAL ZOREN",
+        "attenuation": 1.44
+      },
+      {
+        "name": "DUAL ICHOR",
+        "attenuation": 1.16
+      },
+      {
+        "name": "KOGAKE",
+        "attenuation": 1.46
+      },
+      {
+        "name": "VENKA",
+        "attenuation": 1.05
+      },
+      {
+        "name": "CRONUS",
+        "attenuation": 1.48
+      },
+      {
+        "name": "DAKRA PRIME",
+        "attenuation": 1.1
+      },
+      {
+        "name": "CERAMIC DAGGER",
+        "attenuation": 1.43
+      },
+      {
+        "name": "HEAT DAGGER",
+        "attenuation": 1.44
+      },
+      {
+        "name": "DARK DAGGER",
+        "attenuation": 1.1
+      },
+      {
+        "name": "DARK DAGGER",
+        "attenuation": 1.1
+      },
+      {
+        "name": "FANG",
+        "attenuation": 1.36
+      },
+      {
+        "name": "ETHER DAGGERS",
+        "attenuation": 1.49
+      },
+      {
+        "name": "FANG PRIME",
+        "attenuation": 1.3
+      },
+      {
+        "name": "DUAL KAMAS",
+        "attenuation": 1.3
+      },
+      {
+        "name": "KAMA",
+        "attenuation": 1.47
+      },
+      {
+        "name": "DUAL ETHER",
+        "attenuation": 1.45
+      },
+      {
+        "name": "DUAL HEAT SWORDS",
+        "attenuation": 1.44
+      },
+      {
+        "name": "DUAL SKANA",
+        "attenuation": 1.48
+      },
+      {
+        "name": "FURAX",
+        "attenuation": 1.38
+      },
+      {
+        "name": "FURAX WRAITH",
+        "attenuation": 1.38
+      },
+      {
+        "name": "TEKKO",
+        "attenuation": 1.4
+      },
+      {
+        "name": "ANKYROS PRIME",
+        "attenuation": 1.45
+      },
+      {
+        "name": "ANKYROS",
+        "attenuation": 1.45
+      },
+      {
+        "name": "KESTREL",
+        "attenuation": 1.45
+      },
+      {
+        "name": "GLAIVE",
+        "attenuation": 1.3
+      },
+      {
+        "name": "GLAIVE VARIANT",
+        "attenuation": 1.0
+      },
+      {
+        "name": "GLAIVE PRIME",
+        "attenuation": 0.9
+      },
+      {
+        "name": "ORVIUS",
+        "attenuation": 1.35
+      },
+      {
+        "name": "GRAM",
+        "attenuation": 1.44
+      },
+      {
+        "name": "SARPA",
+        "attenuation": 1.24
+      },
+      {
+        "name": "REDEEMER PRIME",
+        "attenuation": 0.6
+      },
+      {
+        "name": "REDEEMER",
+        "attenuation": 1.05
+      },
+      {
+        "name": "VOLNUS",
+        "attenuation": 1.35
+      },
+      {
+        "name": "SIBEAR",
+        "attenuation": 1.35
+      },
+      {
+        "name": "FRAGOR",
+        "attenuation": 1.2
+      },
+      {
+        "name": "WOLF SLEDGE",
+        "attenuation": 1.25
+      },
+      {
+        "name": "ETHER SWORD",
+        "attenuation": 1.44
+      },
+      {
+        "name": "SKANA",
+        "attenuation": 1.3
+      },
+      {
+        "name": "SKANA PRIME",
+        "attenuation": 1.2
+      },
+      {
+        "name": "MAGISTAR",
+        "attenuation": 1.35
+      },
+      {
+        "name": "NINKONDI",
+        "attenuation": 1.41
+      },
+      {
+        "name": "SHAKU",
+        "attenuation": 1.35
+      },
+      {
+        "name": "GAZAL MACHETE",
+        "attenuation": 1.4
+      },
+      {
+        "name": "TONBO",
+        "attenuation": 1.38
+      },
+      {
+        "name": "GUANDAO PRIME",
+        "attenuation": 0.65
+      },
+      {
+        "name": "GUANDAO",
+        "attenuation": 1.05
+      },
+      {
+        "name": "CASSOWAR",
+        "attenuation": 1.35
+      },
+      {
+        "name": "ORTHOS",
+        "attenuation": 1.0
+      },
+      {
+        "name": "ORTHOS PRIME",
+        "attenuation": 0.65
+      },
+      {
+        "name": "DUAL KAMAS PRIME",
+        "attenuation": 1.2
+      },
+      {
+        "name": "FRAGOR PRIME",
+        "attenuation": 1.05
+      },
+      {
+        "name": "KOGAKE PRIME",
+        "attenuation": 1.4
+      },
+      {
+        "name": "NINKONDI PRIME",
+        "attenuation": 1.1
+      },
+      {
+        "name": "SILVA & AEGIS PRIME",
+        "attenuation": 1.0
+      },
+      {
+        "name": "TEKKO PRIME",
+        "attenuation": 1.3
+      },
+      {
+        "name": "VENKA PRIME",
+        "attenuation": 0.8
+      },
+      {
+        "name": "VOLNUS PRIME",
+        "attenuation": 0.5
+      },
+      {
+        "name": "ANKU",
+        "attenuation": 1.46
+      },
+      {
+        "name": "SOLSTICE SCYTHE",
+        "attenuation": 1.0
+      },
+      {
+        "name": "ETHER REAPER",
+        "attenuation": 1.45
+      },
+      {
+        "name": "REAPER PRIME",
+        "attenuation": 0.7
+      },
+      {
+        "name": "HATE",
+        "attenuation": 1.1
+      },
+      {
+        "name": "DUAL RAZA",
+        "attenuation": 1.4
+      },
+      {
+        "name": "TIPEDO",
+        "attenuation": 1.31
+      },
+      {
+        "name": "BO PRIME",
+        "attenuation": 1.35
+      },
+      {
+        "name": "TIPEDO PRIME",
+        "attenuation": 1.25
+      },
+      {
+        "name": "BO",
+        "attenuation": 1.35
+      },
+      {
+        "name": "AMPHIS",
+        "attenuation": 1.5
+      },
+      {
+        "name": "CADUS",
+        "attenuation": 1.29
+      },
+      {
+        "name": "BO",
+        "attenuation": 1.35
+      },
+      {
+        "name": "ZENISTAR",
+        "attenuation": 1.1
+      },
+      {
+        "name": "TENET EXEC",
+        "attenuation": 0.5
+      },
+      {
+        "name": "NAMI SKYLA",
+        "attenuation": 1.3
+      },
+      {
+        "name": "NAMI SOLO",
+        "attenuation": 1.43
+      },
+      {
+        "name": "DARK SWORD",
+        "attenuation": 1.48
+      },
+      {
+        "name": "DARK HYBRID SWORD - DUAL",
+        "attenuation": 1.21
+      },
+      {
+        "name": "DARK SPLIT-SWORD",
+        "attenuation": 1.21
+      },
+      {
+        "name": "DARK HYBRID SWORD - SINGLE",
+        "attenuation": 1.21
+      },
+      {
+        "name": "DEX DAKRA",
+        "attenuation": 1.35
+      },
+      {
+        "name": "GALATINE",
+        "attenuation": 1.05
+      },
+      {
+        "name": "HEAT SWORD",
+        "attenuation": 1.48
+      },
+      {
+        "name": "JAW SWORD",
+        "attenuation": 1.4
+      },
+      {
+        "name": "NIKANA",
+        "attenuation": 0.95
+      },
+      {
+        "name": "DRAGON NIKANA",
+        "attenuation": 1.15
+      },
+      {
+        "name": "NIKANA VARIANT",
+        "attenuation": 1.0
+      },
+      {
+        "name": "KARYST",
+        "attenuation": 1.35
+      },
+      {
+        "name": "VITRICA",
+        "attenuation": 0.85
+      },
+      {
+        "name": "DESTREZA PRIME",
+        "attenuation": 1.14
+      },
+      {
+        "name": "PANGOLIN SWORD",
+        "attenuation": 1.47
+      },
+      {
+        "name": "PLASMA SWORD",
+        "attenuation": 1.48
+      },
+      {
+        "name": "GALATINE PRIME",
+        "attenuation": 0.8
+      },
+      {
+        "name": "GRAM PRIME",
+        "attenuation": 0.75
+      },
+      {
+        "name": "KARYST PRIME",
+        "attenuation": 1.05
+      },
+      {
+        "name": "NIKANA PRIME",
+        "attenuation": 0.6
+      },
+      {
+        "name": "NAMI SKYLA PRIME",
+        "attenuation": 1.0
+      },
+      {
+        "name": "PANGOLIN PRIME",
+        "attenuation": 1.0
+      },
+      {
+        "name": "DUAL KERES",
+        "attenuation": 1.1
+      },
+      {
+        "name": "CETI LACERA",
+        "attenuation": 1.15
+      },
+      {
+        "name": "LACERA",
+        "attenuation": 1.31
+      },
+      {
+        "name": "WAR",
+        "attenuation": 1.0
+      },
+      {
+        "name": "BROKEN WAR",
+        "attenuation": 1.15
+      },
+      {
+        "name": "OKINA",
+        "attenuation": 1.4
+      },
+      {
+        "name": "ENDURA",
+        "attenuation": 1.4
+      },
+      {
+        "name": "MASSETER",
+        "attenuation": 1.2
+      },
+      {
+        "name": "PENNANT",
+        "attenuation": 0.85
+      },
+      {
+        "name": "TATSU",
+        "attenuation": 0.95
+      },
+      {
+        "name": "DESTREZA",
+        "attenuation": 1.25
+      },
+      {
+        "name": "SKIAJATI",
+        "attenuation": 0.9
+      },
+      {
+        "name": "SILVA & AEGIS",
+        "attenuation": 1.15
+      },
+      {
+        "name": "COBRA & CRANE",
+        "attenuation": 1.3
+      },
+      {
+        "name": "SIGMA & OCTANTIS",
+        "attenuation": 1.0
+      },
+      {
+        "name": "BOLTACE",
+        "attenuation": 1.25
+      },
+      {
+        "name": "KRONEN",
+        "attenuation": 1.43
+      },
+      {
+        "name": "KRONEN PRIME",
+        "attenuation": 0.65
+      },
+      {
+        "name": "QUASSUS",
+        "attenuation": 1.0
+      },
+      {
+        "name": "GUNSEN",
+        "attenuation": 1.35
+      },
+      {
+        "name": "PRISMA SKANA",
+        "attenuation": 1.2
+      }
+    ]
+  },
+  "ZAW": {
+    "upgrades": [
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.018300653594771243,
+        "tag": "WeaponMeleeDamageMod",
+        "upgrades": [
+          [
+            "damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponArmorPiercingDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_PUNCTURE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponImpactDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_IMPACT",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponSlashDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_SLASH",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.02,
+        "tag": "WeaponCritChanceMod",
+        "upgrades": [
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ],
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            "++FIXME++ APPLIED ON HEAVY ATTACKS ONLY ++FIXME++"
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponCritDamageMod",
+        "upgrades": [
+          [
+            "crit_damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponElectricityDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_ELECTRICITY",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFireDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FIRE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFreezeDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FREEZE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponToxinDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_POISON",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01110901901713425,
+        "tag": "WeaponProcTimeMod",
+        "upgrades": [
+          [
+            "status_duration",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponMeleeFactionDamageCorpus",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Corpus",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponMeleeFactionDamageGrineer",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Grineer",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponMeleeFactionDamageInfested",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Infestation",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.006100942872989462,
+        "tag": "WeaponFireRateMod",
+        "upgrades": [
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponStunChanceMod",
+        "upgrades": [
+          [
+            "status_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.09,
+        "tag": "ComboDurationMod",
+        "upgrades": [
+          [
+            "melee_combo_duration",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "SlideAttackCritChanceMod",
+        "upgrades": [
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ],
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.02157920549288867,
+        "tag": "WeaponMeleeRangeIncMod",
+        "upgrades": [
+          [
+            "melee_range",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponMeleeFinisherDamageMod",
+        "upgrades": [
+          [
+            "melee_finisher_damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.008159564823209429,
+        "tag": "WeaponMeleeComboEfficiencyMod",
+        "upgrades": [
+          [
+            "melee_combo_efficiency",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.2722400857449089,
+        "tag": "WeaponMeleeComboInitialBonusMod",
+        "upgrades": [
+          [
+            "melee_combo_initial_bonus",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": false,
+        "can_be_curse": true,
+        "value": -0.011650485436893204,
+        "tag": "WeaponMeleeComboPointsOnHitMod",
+        "upgrades": [
+          [
+            "melee_combo_miss",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.0065298507462686565,
+        "tag": "WeaponMeleeComboBonusOnHitMod",
+        "upgrades": [
+          [
+            "melee_combo_extra",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "DEHTAT",
+        "attenuation": 1.2
+      },
+      {
+        "name": "CYATH",
+        "attenuation": 0.9
+      },
+      {
+        "name": "BALLA",
+        "attenuation": 0.9
+      },
+      {
+        "name": "KRONSH",
+        "attenuation": 1.3
+      },
+      {
+        "name": "MEWAN",
+        "attenuation": 1.1
+      },
+      {
+        "name": "OOLTHA",
+        "attenuation": 1.25
+      },
+      {
+        "name": "DOKRAHM",
+        "attenuation": 0.75
+      },
+      {
+        "name": "SEPFAHN",
+        "attenuation": 0.7
+      },
+      {
+        "name": "RABVEE",
+        "attenuation": 1.3
+      },
+      {
+        "name": "PLAGUE KRIPATH",
+        "attenuation": 0.6
+      },
+      {
+        "name": "PLAGUE KEEWAR",
+        "attenuation": 0.75
+      }
+    ]
+  },
+  "KITGUN": {
+    "upgrades": [
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013329101872421454,
+        "tag": "WeaponArmorPiercingDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_PUNCTURE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.016666666666666666,
+        "tag": "WeaponCritChanceMod",
+        "upgrades": [
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponCritDamageMod",
+        "upgrades": [
+          [
+            "crit_damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponElectricityDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_ELECTRICITY",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFireDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FIRE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.00830078125,
+        "tag": "WeaponFireRateMod",
+        "upgrades": [
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFreezeDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FREEZE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponImpactDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_IMPACT",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01110901901713425,
+        "tag": "WeaponProcTimeMod",
+        "upgrades": [
+          [
+            "status_duration",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponSlashDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_SLASH",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponStunChanceMod",
+        "upgrades": [
+          [
+            "status_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponToxinDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_POISON",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponAmmoMaxMod",
+        "upgrades": [
+          [
+            "ammo_max",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005555555555555556,
+        "tag": "WeaponClipMaxMod",
+        "upgrades": [
+          [
+            "magazine_size",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.024400871459694988,
+        "tag": "WeaponDamageAmountMod",
+        "upgrades": [
+          [
+            "damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponFireIterationsMod",
+        "upgrades": [
+          [
+            "multishot",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponProjectileSpeedMod",
+        "upgrades": [
+          [
+            "projectile_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.03,
+        "tag": "WeaponPunctureDepthMod",
+        "upgrades": [
+          [
+            "punch_through",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": -0.01,
+        "tag": "WeaponRecoilReductionMod",
+        "upgrades": [
+          [
+            "recoil",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005555555555555556,
+        "tag": "WeaponReloadSpeedMod",
+        "upgrades": [
+          [
+            "reload_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageCorpus",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Corpus",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageGrineer",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Grineer",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageInfested",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Infestation",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.00889967637540453,
+        "tag": "WeaponZoomFovMod",
+        "upgrades": [
+          [
+            "zoom",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "VERMISPLICER",
+        "attenuation": 1.0
+      },
+      {
+        "name": "SPORELACER",
+        "attenuation": 0.55
+      },
+      {
+        "name": "CATCHMOON",
+        "attenuation": 0.5
+      },
+      {
+        "name": "TOMBFINGER",
+        "attenuation": 0.65
+      },
+      {
+        "name": "RATTLEGUTS",
+        "attenuation": 0.75
+      },
+      {
+        "name": "GAZE",
+        "attenuation": 0.9
+      }
+    ]
+  },
+  "KITGUN_SHOTGUN": {
+    "upgrades": [
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013329101872421454,
+        "tag": "WeaponArmorPiercingDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_PUNCTURE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponCritChanceMod",
+        "upgrades": [
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponCritDamageMod",
+        "upgrades": [
+          [
+            "crit_damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponElectricityDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_ELECTRICITY",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFireDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FIRE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponFireRateMod",
+        "upgrades": [
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            null
+          ],
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            "BOW"
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponFreezeDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FREEZE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponImpactDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_IMPACT",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01110901901713425,
+        "tag": "WeaponProcTimeMod",
+        "upgrades": [
+          [
+            "status_duration",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013333333333333334,
+        "tag": "WeaponSlashDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_SLASH",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponStunChanceMod",
+        "upgrades": [
+          [
+            "status_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.01,
+        "tag": "WeaponToxinDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_POISON",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponAmmoMaxMod",
+        "upgrades": [
+          [
+            "ammo_max",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005555555555555556,
+        "tag": "WeaponClipMaxMod",
+        "upgrades": [
+          [
+            "magazine_size",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.018300653594771243,
+        "tag": "WeaponDamageAmountMod",
+        "upgrades": [
+          [
+            "damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.013300083125519535,
+        "tag": "WeaponFireIterationsMod",
+        "upgrades": [
+          [
+            "multishot",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponProjectileSpeedMod",
+        "upgrades": [
+          [
+            "projectile_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.03,
+        "tag": "WeaponPunctureDepthMod",
+        "upgrades": [
+          [
+            "punch_through",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": -0.01,
+        "tag": "WeaponRecoilReductionMod",
+        "upgrades": [
+          [
+            "recoil",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005555555555555556,
+        "tag": "WeaponReloadSpeedMod",
+        "upgrades": [
+          [
+            "reload_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageCorpus",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Corpus",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageGrineer",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Grineer",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageInfested",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Infestation",
+            null
+          ]
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "VERMISPLICER",
+        "attenuation": 1.0
+      },
+      {
+        "name": "SPORELACER",
+        "attenuation": 0.55
+      },
+      {
+        "name": "CATCHMOON",
+        "attenuation": 0.5
+      },
+      {
+        "name": "TOMBFINGER",
+        "attenuation": 0.65
+      },
+      {
+        "name": "RATTLEGUTS",
+        "attenuation": 0.75
+      },
+      {
+        "name": "GAZE",
+        "attenuation": 0.9
+      }
+    ]
+  },
+  "ARCHGUN": {
+    "upgrades": [
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponArmorPiercingDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_PUNCTURE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.011099899091826439,
+        "tag": "WeaponCritChanceMod",
+        "upgrades": [
+          [
+            "crit_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.00889967637540453,
+        "tag": "WeaponCritDamageMod",
+        "upgrades": [
+          [
+            "crit_damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.013300083125519535,
+        "tag": "WeaponElectricityDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_ELECTRICITY",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.013300083125519535,
+        "tag": "WeaponFireDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FIRE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.0066707095209217705,
+        "tag": "WeaponFireRateMod",
+        "upgrades": [
+          [
+            "fire_rate",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.013300083125519535,
+        "tag": "WeaponFreezeDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_FREEZE",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponImpactDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_IMPACT",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01110901901713425,
+        "tag": "WeaponProcTimeMod",
+        "upgrades": [
+          [
+            "status_duration",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.01,
+        "tag": "WeaponSlashDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "MUL_ADD",
+            "DT_SLASH",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.006700167504187605,
+        "tag": "WeaponStunChanceMod",
+        "upgrades": [
+          [
+            "status_chance",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.013300083125519535,
+        "tag": "WeaponToxinDamageMod",
+        "upgrades": [
+          [
+            "elemental",
+            "ADD",
+            "DT_POISON",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.011099899091826439,
+        "tag": "WeaponAmmoMaxMod",
+        "upgrades": [
+          [
+            "ammo_max",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.006700167504187605,
+        "tag": "WeaponClipMaxMod",
+        "upgrades": [
+          [
+            "magazine_size",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.011099899091826439,
+        "tag": "WeaponDamageAmountMod",
+        "upgrades": [
+          [
+            "damage",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.006700167504187605,
+        "tag": "WeaponFireIterationsMod",
+        "upgrades": [
+          [
+            "multishot",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": false,
+        "value": 0.03,
+        "tag": "WeaponPunctureDepthMod",
+        "upgrades": [
+          [
+            "punch_through",
+            "ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": -0.01,
+        "tag": "WeaponRecoilReductionMod",
+        "upgrades": [
+          [
+            "recoil",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.011099899091826439,
+        "tag": "WeaponReloadSpeedMod",
+        "upgrades": [
+          [
+            "reload_speed",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageCorpus",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Corpus",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.005,
+        "tag": "WeaponFactionDamageGrineer",
+        "upgrades": [
+          [
+            "faction_damage",
+            "MUL_ADD",
+            "Grineer",
+            null
+          ]
+        ]
+      },
+      {
+        "can_be_buff": true,
+        "can_be_curse": true,
+        "value": 0.006666666666666667,
+        "tag": "WeaponZoomFovMod",
+        "upgrades": [
+          [
+            "zoom",
+            "MUL_ADD",
+            null,
+            null
+          ]
+        ]
+      }
+    ],
+    "weapons": [
+      {
+        "name": "ARQUEBEX",
+        "attenuation": 0.5
+      },
+      {
+        "name": "KUVA AYANGA",
+        "attenuation": 1.0
+      },
+      {
+        "name": "KUVA GRATTLER",
+        "attenuation": 0.5
+      },
+      {
+        "name": "CYNGAS",
+        "attenuation": 1.3
+      },
+      {
+        "name": "PHAEDRA",
+        "attenuation": 1.2
+      },
+      {
+        "name": "<ARCHWING> PRISMA DUAL DECURIONS",
+        "attenuation": 1.05
+      },
+      {
+        "name": "DUAL DECURION",
+        "attenuation": 1.3
+      },
+      {
+        "name": "IMPERATOR",
+        "attenuation": 1.05
+      },
+      {
+        "name": "IMPERATOR VANDAL",
+        "attenuation": 0.85
+      },
+      {
+        "name": "CORVAS",
+        "attenuation": 1.2
+      },
+      {
+        "name": "VELOCITUS",
+        "attenuation": 1.1
+      },
+      {
+        "name": "GRATTLER",
+        "attenuation": 1.0
+      },
+      {
+        "name": "[PH] Prisma Fluctus",
+        "attenuation": 1.0
+      },
+      {
+        "name": "FLUCTUS",
+        "attenuation": 1.0
+      },
+      {
+        "name": "CORTEGE",
+        "attenuation": 1.0
+      },
+      {
+        "name": "MAUSOLON",
+        "attenuation": 0.5
+      },
+      {
+        "name": "MORGHA",
+        "attenuation": 0.85
+      },
+      {
+        "name": "LARKSPUR",
+        "attenuation": 0.85
+      }
+    ]
+  }
+}

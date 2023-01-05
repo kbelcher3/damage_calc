@@ -1,0 +1,23 @@
+poepoe.org/warframe
+===================
+
+Snapshot of the source code, last updated on 2021-11-02.
+
+The game data was taken from U30.6.1 released on 2021-08-10. The data source
+I was using is no longer available, so you will have to find a new way to obtain
+it. A candidate is the "PublicExport":
+
+	https://warframe.fandom.com/wiki/Public_Export
+
+The challenge I can think of is to covert the mod data into machine readable
+format: the PublicExport contains the mod stats in the textual representation
+only, which is what you normally see in the game. Some work will be required to
+be able to parse texts like "During a Wall Latch gain +60% Status Chance and
+Critical Chance."
+
+Licenses:
+
+ - JSON files in src/extracted are owned by Digital Extremes. This repository
+   doesn't contain the script used to generate them, which won't work anyway.
+
+ - Everything else was written by me and is available under the MIT License.
